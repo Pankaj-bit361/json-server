@@ -10,7 +10,193 @@
       "title": "hello2",
       "isCompleted": false
     }
-  ],
+  ], 
+
+  
+    "products": [
+      {
+        "title": "Malyali ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1LcEo6dhvSAysHmP6W1N5dXvlN5g86KqGA&usqp=CAU",
+        "price": "500",
+        "brand": "nike2",
+        "discount": "20",
+        "category": "male",
+        "id": 1
+      },
+      {
+        "title": "Superman",
+        "image": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/12700358a.webp",
+        "price": 700,
+        "brand": "addidas",
+        "discount": "100",
+        "category": "kids",
+        "id": 2
+      },
+      {
+        "title": "Linen shirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/f7/9d/f79db5c03c1c18da182ea77e7a8f2d47b38c9f2b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 1999,
+        "brand": "H&M",
+        "discount": "500",
+        "category": "female",
+        "id": 3
+      },
+      {
+        "title": "Sleeved cut-out dress",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/d2/28/d22875b6bd2352cb739e14552438232b221c7a8d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 2499,
+        "brand": "H&M",
+        "discount": "499",
+        "category": "female",
+        "id": 4
+      },
+      {
+        "title": "Single-breasted blazer",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/98/f9/98f9261b1c2527dfdb88f0fc65b862d9132ac501.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 2699,
+        "brand": "Puma",
+        "discount": "699",
+        "category": "female",
+        "id": 5
+      },
+      {
+        "title": "Puff-sleeved dress",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/2e/c4/2ec49b0ac2dac51f7e4d3b3d4e332af1b7418151.jpg],origin[dam],category[ladies_divided_dresses],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 2299,
+        "brand": "Adidas",
+        "category": "female",
+        "discount": "200",
+        "id": 6
+      },
+      {
+        "title": "Fit Baseball jacket",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/06/02/06025c1e5341188cfe97114114f3b39d417fbfbc.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 3499,
+        "brand": "H&M",
+        "discount": "399",
+        "category": "male",
+        "id": 7
+      },
+      {
+        "title": "Fit Cotton T-shirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/ba/26/ba26f58b366494eb7746318a1b2534b4f2399db7.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 1299,
+        "brand": "Addidas",
+        "discount": "99",
+        "category": "male",
+        "id": 8
+      },
+      {
+        "title": "Kyla Dress 10",
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/WU/HF/YW/20345987/photo1673858959-1-1000x1000.jpg",
+        "price": "1200",
+        "brand": "Wama Trendz",
+        "discount": "30",
+        "category": "female",
+        "id": 9
+      },
+      {
+        "title": "Cotton jersey pyjamas",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "price": 999,
+        "brand": "H&M",
+        "discount": "99",
+        "category": "kids",
+        "id": 10
+      },
+      {
+        "title": "Cycling shorts set",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/4f/c8/4fc85a1ce543eb181cc41fd00cd75bfe7451ea2f.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+        "price": 1499,
+        "brand": "OverLays",
+        "discount": "149",
+        "category": "kids",
+        "id": 11
+      },
+      {
+        "title": "Kyla Dress 3",
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/WU/HF/YW/20345987/photo1673858959-1-1000x1000.jpg",
+        "price": 1499,
+        "brand": "Wama Trendz",
+        "discount": "30",
+        "category": "female",
+        "id": 12
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/PD/ZD/GA/8344890/8003a-1-1000x1000.jpg",
+        "title": "Buttoned Shirt Dress",
+        "price": 799,
+        "brand": "Pannkh",
+        "discount": "20",
+        "category": "female",
+        "id": 13
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/WU/HF/YW/20345987/photo1673858959-1-1000x1000.jpg",
+        "title": "Kyla Dress ",
+        "price": 1499,
+        "brand": "Wama Trendz",
+        "discount": "30",
+        "category": "female",
+        "id": 14
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2022/6/MP/XF/BH/145144158/chblue1-1000x1000.jpg",
+        "title": "Maxi Dress ",
+        "price": 2799,
+        "brand": "Jaipur Prints",
+        "discount": "55",
+        "category": "female",
+        "id": 15
+      },
+      {
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/95/38/9538d206e2e0971ac6d06d1b476f04348889b745.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+        "title": "Fit Polo shirt ",
+        "price": 2399,
+        "brand": "US POLO",
+        "discount": "100",
+        "category": "male",
+        "id": 16
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/DX/ZY/OT/105112946/2s5a1603-1000x1000.jpg",
+        "title": "Anks For Men",
+        "price": 965,
+        "brand": "Kibi Sports ",
+        "discount": "25",
+        "category": "kids",
+        "id": 17
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/XB/GL/UB/9862134/ac2923-1000x1000.jpg",
+        "title": "Ikkat Cotton Kurta",
+        "price": 850,
+        "brand": "INWAY INFOTEK",
+        "discount": "65",
+        "category": "kids",
+        "id": 18
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2023/1/OV/JS/CL/90086993/5517981-1000x1000.png",
+        "title": "Kurta With Pants",
+        "price": 2150,
+        "brand": "Pannkh",
+        "discount": "5",
+        "category": "female",
+        "id": 19
+      },
+      {
+        "image": "https://5.imimg.com/data5/ECOM/Default/2022/8/VX/AP/TH/10488547/1097-00-702030-main-fa9305e9-e6b4-40e8-930f-7d8cabd0b416-1000x1000.jpg",
+        "title": "Black Colored Lapel ",
+        "price": 1699,
+        "brand": "Feluche Inc.",
+        "discount": "25",
+        "category": "male",
+        "id": 20
+      }
+    ],
+  
+
   "accounts": [
     {
       "id": 1,
