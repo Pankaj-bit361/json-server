@@ -608,9 +608,6 @@
       "men": [
         
 
-
-
-
         {
           "id": 1,
           "title": "Men White Trainers",
@@ -628,7 +625,7 @@
           "brand": "H&M",
           "color": "white",
           "discount": 10,
-          "off_price": 2199,
+          "off_price": 1499,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bda9fe48-193c-4a64-8e2a-a8e60bd6e2d61632884288144Trainers1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/e234c6a7-57cb-4f85-85c8-f3cb5b726bd81632884288312Trainers2.jpg",
@@ -681,7 +678,7 @@
           "brand": "H&M",
           "color": "blue",
           "discount": 40,
-          "off_price": 1799,
+          "off_price": 1299,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/bf790580-9d52-423a-8083-38f1ca7f47511632723350062Fine-knitjumper1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/2cc4b764-c362-462a-a776-52102f5c9ec11632723350071Fine-knitjumper2.jpg",
@@ -708,7 +705,7 @@
           "brand": "H&M",
           "color": "black",
           "discount": 40,
-          "off_price": 1299,
+          "off_price": 399,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/9b684f64-c8a6-4808-952e-604516fa5a001632884361405HMMenGreyRelaxedFitSweatshirt1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/df8910b9-bf54-454d-94e4-abab395291f01632884361459HMMenGreyRelaxedFitSweatshirt2.jpg",
@@ -735,7 +732,7 @@
           "brand": "H&M",
           "color": "white",
           "discount": 10,
-          "off_price": 2199,
+          "off_price": 1399,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/bda9fe48-193c-4a64-8e2a-a8e60bd6e2d61632884288144Trainers1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15630218/2021/9/29/e234c6a7-57cb-4f85-85c8-f3cb5b726bd81632884288312Trainers2.jpg",
@@ -790,7 +787,7 @@
           "brand": "H&M",
           "color": "blue",
           "discount": 40,
-          "off_price": 1799,
+          "off_price": 1199,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/bf790580-9d52-423a-8083-38f1ca7f47511632723350062Fine-knitjumper1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15545930/2021/9/27/2cc4b764-c362-462a-a776-52102f5c9ec11632723350071Fine-knitjumper2.jpg",
@@ -806,7 +803,7 @@
           "categories": "shoes",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Tan Mouse High Cushioning Running Shoes",
-          "price": "749",
+          "price": 1749,
           "gender": "men",
           "sizes": [
             "S",
@@ -847,7 +844,7 @@
           "brand": "Roadster",
           "color": "black",
           "discount": 25,
-          "off_price": 4999,
+          "off_price": 4199,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/73fc1074-0a84-4845-b452-9a6a080be4cb1635336510062-Nike-Precision-5-Basketball-Shoes-5381635336509646-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/2cd4e8e1-4b3c-4b45-895a-ac5144e824b81635336510034-Nike-Precision-5-Basketball-Shoes-5381635336509646-4.jpg",
@@ -875,7 +872,7 @@
           "brand": "Roadster",
           "color": "blue",
           "discount": 10,
-          "off_price": 3399,
+          "off_price": 3099,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/3ae9949f-002c-4329-9590-7182c6ebd1421632910116761-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/14590966/2021/9/29/eaf82df0-f587-43c2-b857-d27db4e92f7e1632910116752-Calvin-Klein-Jeans-Men-Tshirts-4161632910116207-2.jpg",
@@ -900,6 +897,7 @@
           "description": "Black solid striped sporty jacket with zip detail, has a hooded, 2 pockets ,has a zip closure, long sleeves, straight hemline, without lining",
           "category": "Men Clothing",
           "brand": "Street Armor by Pantaloons",
+          "off_price": 1999,
           "color": "black",
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15615048/2021/9/25/998a78d8-157d-4dad-9178-42b130e3915a1632570452832StreetArmorbyPantaloonsMenBlackStripedSportyJacket1.jpg",
@@ -950,6 +948,7 @@
           ],
           "description": "Black solid striped sporty jacket with zip detail, has a hooded, 2 pockets ,has a zip closure, long sleeves, straight hemline, without lining",
           "category": "Men Clothing",
+          "off_price": 1999,
           "brand": "Street Armor by Pantaloons",
           "color": "black",
           "images": {
@@ -1247,7 +1246,7 @@
           "brand": "H&M",
           "color": "blue",
           "discount": "10",
-          "off_price": 1500,
+          "off_price": 1199,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/a621b7fd-babb-4bb3-940e-b16afb7947d31633609833495HMMenBlueRelaxedFitHoodie1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15746172/2021/10/7/b019b315-fb56-481a-9de4-97f588b636551633609832286HMMenBlueRelaxedFitHoodie2.jpg",
@@ -1274,7 +1273,7 @@
           "brand": "H&M",
           "color": "black",
           "discount": 40,
-          "off_price": 1299,
+          "off_price": 699,
           "images": {
             "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/9b684f64-c8a6-4808-952e-604516fa5a001632884361405HMMenGreyRelaxedFitSweatshirt1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15611412/2021/9/29/df8910b9-bf54-454d-94e4-abab395291f01632884361459HMMenGreyRelaxedFitSweatshirt2.jpg",
@@ -1298,7 +1297,7 @@
           "categories": "shirt",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Blue Regular Fit Printed Casual Shirt",
-          "price": "699",
+          "price": 699,
           "gender": "men",
           "sizes": [
             "S",
@@ -1311,7 +1310,7 @@
           "brand": "Roadster",
           "color": "brown",
           "discount": 40,
-          "off_price": 1049,
+          "off_price": 499,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
@@ -1326,7 +1325,7 @@
           "categories": "shirt",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Blue Slim Fit Solid Casual Shirt",
-          "price": "579",
+          "price": 999,
           "gender": "men",
           "sizes": [
             "S",
@@ -1339,7 +1338,7 @@
           "brand": "HERE&NOW",
           "color": "green",
           "discount": 42,
-          "off_price": 999,
+          "off_price": 799,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989836087-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2290028/2018/2/7/11517989835985-HIGHLANDER-Men-Blue-Slim-Fit-Solid-Casual-Shirt-4461517989835897-5.jpg",
@@ -1354,7 +1353,7 @@
           "categories": "kurta",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Grey & Blue Self Design Kurta with Churidar & Nehru Jacket",
-          "price": "2199",
+          "price": 2199,
           "gender": "men",
           "sizes": [
             "S",
@@ -1367,7 +1366,7 @@
           "brand": "Clovia",
           "color": "white",
           "discount": 60,
-          "off_price": 5499,
+          "off_price": 1999,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/c18ee8eb-06f6-4d10-8f4a-680ac10fccf21527055151093-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/81b26584-a36d-414d-9653-195b978884141527055151039-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-3.jpg",
@@ -1382,7 +1381,7 @@
           "categories": "tshirt",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men White & Navy Blue Pure Cotton Striped Polo Collar T-shirt",
-          "price": "359",
+          "price": 1199,
           "gender": "men",
           "sizes": [
             "S",
@@ -1410,7 +1409,7 @@
           "categories": "short",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Navy Blue Solid Slim Fit Chino Shorts",
-          "price": "686",
+          "price": 699,
           "gender": "men",
           "sizes": [
             "S",
@@ -1423,7 +1422,7 @@
           "brand": "Dressberry",
           "color": "black",
           "discount": 45,
-          "off_price": 1249,
+          "off_price": 449,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/76a1fe8c-86c9-4ff1-bd68-2d333cfc03831544132056588-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/2bf7f927-99ec-4670-88ae-8e3ef0b9dfb81544132056680-4.jpg",
@@ -1438,7 +1437,7 @@
           "categories": "shirt",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Pink Slim Fit White Vertical Stripes Formal Shirt",
-          "price": "2980",
+          "price": 3349,
           "gender": "men",
           "sizes": [
             "S",
@@ -1451,7 +1450,7 @@
           "brand": "Celfie Design",
           "color": "pink",
           "discount": 11,
-          "off_price": 3349,
+          "off_price": 3199,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/3ec609b9-d503-4018-9b44-8973a43817391624115526512-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/6/19/4f34f640-5fff-4629-9734-137a56c705701624115526552-5.jpg",
@@ -1466,7 +1465,7 @@
           "categories": "kurta",
           "size": "Sizes : 39, 40, 42, 44...",
           "title": "Men Red & Green Striped Pure Cotton Kurta",
-          "price": "854",
+          "price": 899,
           "gender": "men",
           "sizes": [
             "S",
@@ -1479,7 +1478,7 @@
           "brand": "KALINI",
           "color": "red",
           "discount": 55,
-          "off_price": 1899,
+          "off_price": 699,
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/67ad0999-a2f1-4251-a370-207fc1bdad4d1628241598838-Anouk-Men-Red-Striped-Kurta-6691628241598334-3.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13238920/2021/8/6/eeb519eb-0f0c-4c75-b74c-8d629c055cd71628241598817-Anouk-Men-Red-Striped-Kurta-6691628241598334-4.jpg",
