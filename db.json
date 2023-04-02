@@ -1379,6 +1379,7 @@
           "title": "White & Black Sheath Dress & Belt",
           "categories": "dresses",
           "price": 903,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1405,6 +1406,7 @@
           "id": 2,
           "title": "Women Pink Daisy Duck Printed Sweatshirt",
           "price": 799,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1433,6 +1435,7 @@
           "title": "Women Navy Blue & Beige Embroidered Pullover Sweater",
           "price": 959,
           "categories": "tops",
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1460,6 +1463,7 @@
           "title": "Women Red Solid A-Line Dress",
           "price": 1049,
           "categories": "dresses",
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1486,6 +1490,7 @@
           "id": 5,
           "title": "Women Blue Mile Super Skinny Fit High-Rise Light Fade Stretchable Jeans",
           "price": 2939,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1513,6 +1518,7 @@
           "title": "Women Mustard Yellow & Green Solid Kurta Set With Embroidery Detail",
           "categories": "tops",
           "price": 1399,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1540,6 +1546,7 @@
           "title": "Women Mustard Yellow & Pink Printed Pure Cotton Anarkali Tiered Maxi Dress",
           "price": 2249,
           "categories": "dresses",
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1567,6 +1574,7 @@
           "title": "Women Pink Solid Round Neck T-shirt",
           "price": 899,
           "categories": "tshirt",
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1594,6 +1602,7 @@
           "title": "Red & Maroon Tie and Dye RUSH Running Tank Top",
           "price": 2999,
           "categories": "tops",
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1620,6 +1629,7 @@
           "id": 10,
           "title": "Black Dri-FIT Swoosh Zip-Front Medium-Support Workout Bra - Lightly Padded",
           "price": 2021,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1648,6 +1658,7 @@
           "categories": "beautycare",
           "title": "Radiance Complexion Compact - Natural Pearl",
           "price": 124,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1676,6 +1687,7 @@
           "categories": "beautycare",
           "title": "New York Colossal Volume Express Waterproof Mascara - Black 10 g",
           "price": 319,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1703,6 +1715,7 @@
           "categories": "beautycare",
           "title": "Perfect Match Primer 30 ml",
           "price": 595,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1728,6 +1741,7 @@
           "categories": "beautycare",
           "title": "Insta-Liner - Black 9ml",
           "price": 104,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1754,6 +1768,7 @@
           "categories": "beautycare",
           "title": "Set of 2 Eyeconic Kajal - Deep Black 0.70 g Each",
           "price": 240,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1782,6 +1797,7 @@
           "categories": "beautycare",
           "title": "Lip Plumping Sleeping Mask Vitamin C + E - 15 ml",
           "price": 355,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1809,6 +1825,7 @@
           "categories": "beautycare",
           "title": "New York The Nudes Eyeshadow Palette - Blush 9g",
           "price": 633,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1837,6 +1854,7 @@
           "categories": "beautycare",
           "title": "New York Super Stay Matte Ink Liquid Lipstick - 120 Artist",
           "price": 594,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1865,6 +1883,7 @@
           "categories": "beautycare",
           "title": "Absolute Blur Perfect Makeup Primer - Mini 10g",
           "price": 239,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1892,6 +1911,7 @@
           "categories": "beautycare",
           "title": "Magneteyes Kajal Black 01",
           "price": 143,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1918,6 +1938,7 @@
           "id": 21,
           "title": "Girls Black Shorts",
           "price": 359,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1945,6 +1966,7 @@
           "id": 22,
           "title": "Blue Kurti",
           "price": 699,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1972,6 +1994,7 @@
           "id": 23,
           "title": "Black Culottes",
           "price": 699,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -1999,6 +2022,7 @@
           "id": 24,
           "title": "Women White Solid Pure Cotton Camisole",
           "price": 199,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2026,6 +2050,7 @@
           "id": 25,
           "title": "Women Black & White Colourblocked Poncho Shrug",
           "price": 1699,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2053,6 +2078,7 @@
           "id": 26,
           "title": "Women Pink Textile Running Non-Marking Shoes",
           "price": 1199,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2079,6 +2105,7 @@
           "id": 27,
           "title": "Peach-Coloured Printed Shopper Tote Bag",
           "price": 199,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2107,6 +2134,7 @@
           "id": 28,
           "title": "Unisex Grey & Black Solid Training Duffel Bag",
           "price": 959,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2134,6 +2162,7 @@
           "id": 29,
           "title": "Women Medieval Blue Solid Rapid-Dry Antimicrobial Training Jacket",
           "price": 959,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2162,6 +2191,7 @@
           "id": 30,
           "title": "Men Green Solid Sporty Jacket",
           "price": 1099,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2189,6 +2219,7 @@
           "id": 31,
           "title": "Women Black Solid Chunky Combat Boots",
           "price": 2699,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2215,6 +2246,7 @@
           "id": 32,
           "title": "Women White & Black Acrylic Jumper",
           "price": 799,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2242,6 +2274,7 @@
           "id": 33,
           "title": "Women Off-White Solid Short Cardigan",
           "price": 1299,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2268,6 +2301,7 @@
           "id": 34,
           "title": "Women Pink Solid Cropped Sweatshirt",
           "price": 799,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2295,6 +2329,7 @@
           "id": 35,
           "title": "Women Blue Oversized Zip-Through Hoodie",
           "price": 2299,
+          "quantity":1,
           "gender": "women",
           "sizes": [
             "S",
@@ -2324,11 +2359,11 @@
       "shipping":{}
      ,
      "cart2":[
-
+    
      ]
      ,
       
-
+    
     
        
         "admin_data": [
@@ -2358,6 +2393,7 @@
      "id": 1,
      "productDiscountPercentage": "(71% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
       
@@ -2381,6 +2417,7 @@
      "id": 2,
      "productDiscountPercentage": "(Rs. 1000 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2402,6 +2439,7 @@
      "id": 3,
      "productDiscountPercentage": "(85% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2423,6 +2461,7 @@
      "id": 4,
      "productDiscountPercentage": "(30% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2444,6 +2483,7 @@
      "id": 5,
      "productDiscountPercentage": "(Rs. 2001 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2466,6 +2506,7 @@
      "id": 6,
      "productDiscountPercentage": "(67% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2487,6 +2528,7 @@
      "id": 7,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2508,6 +2550,7 @@
      "id": 8,
      "productDiscountPercentage": "(67% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2529,6 +2572,7 @@
      "id": 9,
      "productDiscountPercentage": "(30% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2550,6 +2594,7 @@
      "id": 10,
      "productDiscountPercentage": "(Rs. 2201 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2571,6 +2616,7 @@
      "id": 11,
      "productDiscountPercentage": "(74% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2592,6 +2638,7 @@
      "id": 12,
      "productDiscountPercentage": "(30% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2614,6 +2661,7 @@
      "id": 13,
      "productDiscountPercentage": "(67% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2635,6 +2683,7 @@
      "id": 14,
      "productDiscountPercentage": "(73% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2656,6 +2705,7 @@
      "id": 15,
      "productDiscountPercentage": "(Rs. 1601 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2677,6 +2727,7 @@
      "id": 16,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2698,6 +2749,7 @@
      "id": 17,
      "productDiscountPercentage": "(Rs. 1801 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2719,6 +2771,7 @@
      "id": 18,
      "productDiscountPercentage": "(74% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2741,6 +2794,7 @@
      "id": 19,
      "productDiscountPercentage": "(77% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2762,6 +2816,7 @@
      "id": 20,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2783,6 +2838,7 @@
      "id": 21,
      "productDiscountPercentage": "(Rs. 2101 OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "t-shirt"
     },
@@ -2804,6 +2860,7 @@
      "id": 22,
      "productDiscountPercentage": "(62% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2826,6 +2883,7 @@
      "id": 23,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2847,6 +2905,7 @@
      "id": 24,
      "productDiscountPercentage": "(75% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2868,6 +2927,7 @@
      "id": 25,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2890,6 +2950,7 @@
      "id": 26,
      "productDiscountPercentage": "(84% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2911,6 +2972,7 @@
      "id": 27,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2933,6 +2995,7 @@
      "id": 28,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2955,6 +3018,7 @@
      "id": 29,
      "productDiscountPercentage": "(62% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2977,6 +3041,7 @@
      "id": 30,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -2999,6 +3064,7 @@
      "id": 31,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3020,6 +3086,7 @@
      "id": 32,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3042,6 +3109,7 @@
      "id": 33,
      "productDiscountPercentage": "(70% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3063,6 +3131,7 @@
      "id": 34,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3084,6 +3153,7 @@
      "id": 35,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3105,6 +3175,7 @@
      "id": 36,
      "productDiscountPercentage": "(73% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3127,6 +3198,7 @@
      "id": 37,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3149,6 +3221,7 @@
      "id": 38,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3170,6 +3243,7 @@
      "id": 39,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3192,6 +3266,7 @@
      "id": 40,
      "productDiscountPercentage": "(82% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     },
@@ -3214,6 +3289,7 @@
      "id": 41,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "boys",
      "category": "sweat-shirt"
     }, 
@@ -3236,6 +3312,7 @@
      "id": 42,
      "productDiscountPercentage": "discount",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3257,6 +3334,7 @@
      "id": 43,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3278,6 +3356,7 @@
      "id": 44,
      "productDiscountPercentage": "(70% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3299,6 +3378,7 @@
      "id": 45,
      "productDiscountPercentage": "(67% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3321,6 +3401,7 @@
      "id": 46,
      "productDiscountPercentage": "(5% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3343,6 +3424,7 @@
      "id": 47,
      "productDiscountPercentage": "(55% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3365,6 +3447,7 @@
      "id": 48,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3386,6 +3469,7 @@
      "id": 49,
      "productDiscountPercentage": "(55% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3408,6 +3492,7 @@
      "id": 50,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3430,6 +3515,7 @@
      "id": 51,
      "productDiscountPercentage": "(5% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3451,6 +3537,7 @@
      "id": 52,
      "productDiscountPercentage": "(Rs. 1235 OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3473,6 +3560,7 @@
      "id": 53,
      "productDiscountPercentage": "(75% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3495,6 +3583,7 @@
      "id": 54,
      "productDiscountPercentage": "(71% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3516,6 +3605,7 @@
      "id": 55,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3537,6 +3627,7 @@
      "id": 56,
      "productDiscountPercentage": "(64% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3558,6 +3649,7 @@
      "id": 57,
      "productDiscountPercentage": "(77% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3579,6 +3671,7 @@
      "id": 58,
      "productDiscountPercentage": "(42% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3600,6 +3693,7 @@
      "id": 59,
      "productDiscountPercentage": "(25% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3621,6 +3715,7 @@
      "id": 60,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3643,6 +3738,7 @@
      "id": 61,
      "productDiscountPercentage": "(56% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3665,6 +3761,7 @@
      "id": 62,
      "productDiscountPercentage": "(50% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     },
@@ -3686,6 +3783,7 @@
      "id": 63,
      "productDiscountPercentage": "(25% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "dresses"
     }, 
@@ -3707,6 +3805,7 @@
      "id": 64,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3728,6 +3827,7 @@
      "id": 65,
      "productDiscountPercentage": "(41% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3749,6 +3849,7 @@
      "id": 66,
      "productDiscountPercentage": "(Rs. 1000 OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3771,6 +3872,7 @@
      "id": 67,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3792,6 +3894,7 @@
      "id": 6458,
      "productDiscountPercentage": "(65% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3814,6 +3917,7 @@
      "id": 69,
      "productDiscountPercentage": "(25% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3835,6 +3939,7 @@
      "id": 70,
      "productDiscountPercentage": "(33% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3857,6 +3962,7 @@
      "id": 71,
      "productDiscountPercentage": "(70% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3878,6 +3984,7 @@
      "id": 72,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3900,6 +4007,7 @@
      "id": 73,
      "productDiscountPercentage": "(65% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3922,6 +4030,7 @@
      "id": 74,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3944,6 +4053,7 @@
      "id": 75,
      "productDiscountPercentage": "(40% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3966,6 +4076,7 @@
      "id": 76,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     },
@@ -3988,12 +4099,15 @@
      "id": 77,
      "productDiscountPercentage": "(60% OFF)",
     
+     "quantity":1,
      "gender": "girls",
      "category": "t-shirt"
     }
-  
     
-   ]
+    
+    ]
+
+     
      
      
 
