@@ -2,6 +2,11 @@
   
   "location":[],
   
+"steps":[{
+  "id":1,
+  "steps":0
+}],
+
     "product": [
       {
         "title": "Malyali ",
