@@ -2,11 +2,101 @@
   
   "location":[],
   
-"steps":[{
-  "id":1,
-  "steps":0
-}],
 
+
+"users": [
+    {
+      "name": "Pankaj",
+      "password": "Pankaj",
+      "doctor": true,
+      "email": "pnkjvshsht1@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Bharat",
+      "password": "Bharat",
+      "doctor": false,
+      "email": "bharat@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "pankaj",
+      "password": "pankaj",
+      "doctor": true,
+      "email": "pnkjvshsht1@gmail.com",
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Pankaj",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Psychiatrist",
+      "experience": 200,
+      "location": "delhi",
+      "date": "2023-05-16",
+      "slots": 20,
+      "fee": 150,
+      "id": 2
+    },
+    {
+      "name": "Himanshi Sharma",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Dermatologits",
+      "experience": 10,
+      "location": "india",
+      "date": "2023-05-17",
+      "slots": 10,
+      "fee": 1000,
+      "id": 3
+    },
+
+    {
+      "name": "Pankaj",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Psychiatrist",
+      "experience": 200,
+      "location": "delhi",
+      "date": "2023-05-16",
+      "slots": 20,
+      "fee": 150,
+      "id": 4
+    },
+    {
+      "name": "Himanshi Sharma",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Dermatologits",
+      "experience": 10,
+      "location": "india",
+      "date": "2023-05-17",
+      "slots": 10,
+      "fee": 1000,
+      "id": 5
+    },
+    {
+      "name": "Pankaj",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Psychiatrist",
+      "experience": 200,
+      "location": "delhi",
+      "date": "2023-05-16",
+      "slots": 20,
+      "fee": 150,
+      "id": 6
+    },
+    {
+      "name": "Himanshi Sharma",
+      "image": "https://lp2.hm.com/hmgoepprod?set=source[/1f/77/1f7715cc9f6bbcb34bdcc03301efc2c9687dafab.jpg],origin[dam],category[kids_oldergirls_clothing_nightwear_pyjamas],type[DESCRIPTIVESTILLLIFE],res[z],hmver[2]&call=url[file:/product/main]",
+      "specialization": "Dermatologits",
+      "experience": 10,
+      "location": "india",
+      "date": "2023-05-17",
+      "slots": 10,
+      "fee": 1000,
+      "id": 7
+    }
+  ]
+,
     "product": [
       {
         "title": "Malyali ",
