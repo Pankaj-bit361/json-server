@@ -4201,6 +4201,153 @@
     "id": 8
   }
 ]
+,
+"freelancers": [
+    {
+      "name": "om",
+      "email": "om@gmail.com",
+      "password": "om",
+      "profession": "Web Developer",
+      "skills": [
+        "doctor",
+        "teacher",
+        "scientist"
+      ],
+      "hourly_rate": 300,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Pankaj",
+      "email": "pnkjvshsht1@gmail.com",
+      "password": "pankaj",
+      "profession": "Web Developer",
+      "skills": [
+        "doctor",
+        "teacher",
+        "scientist"
+      ],
+      "hourly_rate": 500,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "om",
+      "email": "om@gmail.com",
+      "password": "om",
+      "profession": "Student",
+      "skills": [
+        "doctor",
+        "teacher",
+        "scientist"
+      ],
+      "hourly_rate": 100,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "jai",
+      "email": "jai@gmail.com",
+      "password": "jai",
+      "profession": "Graphic Designer",
+      "skills": [
+        "doctor",
+        "missionarry"
+      ],
+      "hourly_rate": 1077,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "Pankaj",
+      "email": "pnkjvshsht1@gmail.com",
+      "password": "pankaj",
+      "profession": "Student",
+      "skills": [
+        "politician",
+        "superman",
+        "scientist"
+      ],
+      "hourly_rate": 500,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "bharat",
+      "email": "bharat@gmail.com",
+      "password": "bharat",
+      "profession": "Web Developer",
+      "skills": [
+        "batman",
+        "scientist"
+      ],
+      "hourly_rate": 1078,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 6
+    },
+    {
+      "name": "Pankaj",
+      "email": "pnkjvshsht1@gmail.com",
+      "password": "pankaj",
+      "profession": "Graphic Designer",
+      "skills": [
+        "teacher",
+        "scientist"
+      ],
+      "hourly_rate": 500,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 7
+    },
+    {
+      "name": "bharat",
+      "email": "pnkjvshsht16127@gmail.com",
+      "password": "pankaj",
+      "profession": "Student",
+      "skills": [
+        "coder",
+        "engineer",
+        "scientist"
+      ],
+      "hourly_rate": 1000,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "email": "pnkjvshsht123@gmail.com",
+      "password": "rahul",
+      "profession": "Graphic Designer",
+      "skills": [
+        "doctor",
+        "teacher"
+      ],
+      "hourly_rate": 900,
+      "profile_picture": "https://www.vhv.rs/dpng/d/15-155087_dummy-image-of-user-hd-png-download.png",
+      "isBooked": false,
+      "id": 9
+    },
+    {
+      "name": "Himanshi Sharma",
+      "email": "himanshi@gmail.com",
+      "password": "himanshi",
+      "profession": "Graphic Designer",
+      "skills": [
+        "doctor"
+      ],
+      "hourly_rate": 5000,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqM18SfCpOT8qRSiC_xi-CzWRDUhqt9PdPj9mfrGw&s",
+      "isBooked": false,
+      "id": 10
+    }
+  ]
      
      
 
