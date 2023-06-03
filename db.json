@@ -1,7 +1,85 @@
 {
   
   "location":[],
-  
+  "users1": [
+    {
+      "username": "Pankaj",
+      "password": "pankaj",
+      "avatar": "https://img.freepik.com/premium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
+      "email": "pnkjvshsht1@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "pankaj",
+      "password": "pankaj",
+      "avatar": "https://img.freepik.com/premium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
+      "email": "pnkjvshsht@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "Pankaj",
+      "password": "100",
+      "avatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436180.jpg?size=626&ext=jpg&ga=GA1.2.1395151129.1685774887&semt=ais",
+      "email": "pnkjvshsht1@gmail.com",
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "title": "How to sort an array in JavaScript?",
+      "description": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "Javascript",
+      "date": "2023-06-03",
+      "upvotes": "10",
+      "id": 2,
+      "answers": 0
+    },
+    {
+      "title": "How to sort an array in JavaScript?",
+      "description": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "Javascript",
+      "date": "2023-06-03",
+      "upvotes": "10",
+      "id": 3,
+      "answers": 0
+    },
+    {
+      "title": "How to sort an array in Java?",
+      "description": "I'm struggling with sorting an array in Java. Can someone please provide guidance?",
+      "language": "Java",
+      "date": "2023-06-03",
+      "upvotes": "20",
+      "id": 4,
+      "answers": 0
+    },
+    {
+      "title": "How to sort an array in python?",
+      "description": "I'm struggling with sorting an array in python. Can someone please provide guidance?",
+      "language": "Python",
+      "date": "2023-06-03",
+      "upvotes": "30",
+      "id": 5,
+      "answers": 0
+    },
+    {
+      "title": "How to sort an array in Java?",
+      "description": "I'm struggling with sorting an array in Java. Can someone please provide guidance?",
+      "language": "Java",
+      "date": "2023-06-03",
+      "upvotes": "20",
+      "id": 7,
+      "answers": 0
+    },
+    {
+      "title": "How to sort an array in python?",
+      "description": "I'm struggling with sorting an array in python. Can someone please provide guidance?",
+      "language": "Python",
+      "date": "2023-06-03",
+      "upvotes": "30",
+      "id": 8,
+      "answers": 0
+    }
+  ],
     "product": [
       {
         "title": "Malyali ",
