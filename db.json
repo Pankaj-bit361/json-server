@@ -4269,25 +4269,16 @@
      
 "users": [
   {
-    "name": "Pankaj",
-    "password": "Pankaj",
-    "doctor": true,
+    "username": "Pankaj Vashisht",
+    "password": "pankaj",
     "email": "pnkjvshsht1@gmail.com",
     "id": 1
   },
   {
-    "name": "Bharat",
-    "password": "Bharat",
-    "doctor": false,
-    "email": "bharat@gmail.com",
+    "username": "Himanshi Sharma",
+    "password": "himanshi",
+    "email": "himanshi@gmail.com",
     "id": 2
-  },
-  {
-    "name": "pankaj",
-    "password": "pankaj",
-    "doctor": true,
-    "email": "pnkjvshsht1@gmail.com",
-    "id": 3
   }
 ],
 "appointments": [
