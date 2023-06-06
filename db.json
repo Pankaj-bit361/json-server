@@ -1,6 +1,86 @@
 {
   
   "location":[],
+
+
+
+  "tracker": [
+    {
+      "category": "Salary",
+      "type": "Income",
+      "price": "50000",
+      "date": "2023-06-04",
+      "id": 1
+    },
+    {
+      "category": "Food & Drinks",
+      "type": "Expenses",
+      "price": "8000",
+      "date": "2023-06-02",
+      "id": 2
+    },
+   
+    {
+      "category": "Other",
+      "type": "Income",
+      "price": "5000",
+      "date": "2023-06-02",
+      "id": 3
+    },
+    {
+      "category": "Housing",
+      "type": "Expenses",
+      "price": "6000",
+      "date": "2023-06-14",
+      "id": 4
+    },
+    {
+      "category": "Shopping",
+      "type": "Expenses",
+      "price": "5000",
+      "date": "2023-06-09",
+      "id": 5
+    },
+    {
+      "category": "Gifts",
+      "type": "Income",
+      "price": "20000",
+      "date": "2023-06-13",
+      "id": 6
+    },
+  
+    {
+      "category": "Refunds",
+      "type": "Income",
+      "price": "10000",
+      "date": "2023-06-16",
+      "id": 7
+    },
+    {
+      "category": "Bills",
+      "type": "Expenses",
+      "price": "10000",
+      "date": "2023-06-18",
+      "id": 8
+    },
+    {
+      "category": "Vehicle & Transport",
+      "type": "Expenses",
+      "price": "4000",
+      "date": "2023-06-08",
+      "id": 9
+    },
+    {
+      "category": "Lifestyle",
+      "type": "Expenses",
+      "price": "3000",
+      "date": "2023-06-05",
+      "id": 10
+    }
+  ],
+
+
+
   "users1": [
     {
       "username": "Pankaj",
