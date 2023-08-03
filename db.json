@@ -4352,6 +4352,140 @@
   }
 ]
 ,
+"restaurants": [
+    {
+      "restaurant": "Burger King",
+      "famous_dishes": "Burger,Fast-Food,Desserts",
+      "place": "Connaught Place",
+      "image": "https://b.zmtcdn.com/data/pictures/3/18557413/cc651de0e2a67338fb0635d7b2c1c43f_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 4.5,
+      "price": 100,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 1
+    },
+    {
+      "restaurant": "Taco Bell",
+      "famous_dishes": "Mexican, Fast Food, Wraps",
+      "place": "Connaught Place",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/3/312123/8b9f4ee0bf361a2d2db1e22b568e7783.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "city": "delhi",
+      "rating": 4.2,
+      "price": 200,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 2
+    },
+    {
+      "restaurant": "McDonald's",
+      "famous_dishes": "Burger, Wraps, Fast Food, Desserts, Beverages",
+      "place": "Connaught Place",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/1/171/ae293114dcf4bd5be57864215c34a329.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "city": "delhi",
+      "rating": 3.9,
+      "price": 200,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 3
+    },
+    {
+      "restaurant": "La Pino'z Pizza",
+      "famous_dishes": "Pizza, Pasta, Italian, Fast Food",
+      "place": "Pitampura",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/7/18619067/eac5d48527700f6ea1bcfbb2094456d0.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "city": "delhi",
+      "rating": 3.8,
+      "price": 250,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 4
+    },
+    {
+      "restaurant": "Subway",
+      "famous_dishes": "Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",
+      "place": "Pitampura",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/7/147/6d190bd95df694397c6a0b547ed7e625.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "city": "delhi",
+      "rating": 3.2,
+      "price": 250,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 5
+    },
+    {
+      "restaurant": "The Burger Company",
+      "famous_dishes": "Burger, Fast Food, Pizza, Momos, Sandwich, Beverages",
+      "place": "Pitampura",
+      "image": "https://b.zmtcdn.com/data/pictures/9/20042889/e6ecb15e6c9a50b8bfc5d4cae4148500.jpg?fit=around|300:273&crop=300:273;*,*",
+      "city": "delhi",
+      "rating": 3.4,
+      "price": 150,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 6
+    },
+    {
+      "restaurant": "Gianis",
+      "famous_dishes": "Burger, Fast Food, Pizza, Momos, Sandwich, Beverages",
+      "place": "Karol Bagh",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/6/1156/d0e4e00b32b344747bc2e648fd5ef243_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "city": "delhi",
+      "rating": 3.7,
+      "price": 100,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 7
+    },
+    {
+      "restaurant": "Lords Of Shawarma",
+      "famous_dishes": "Shawarma, Momos, Chinese, Fast Food",
+      "place": "Karol Bagh",
+      "image": "https://b.zmtcdn.com/data/pictures/3/19533983/802f5dd341089c3a12df4ba8cd7a5e93_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 4.4,
+      "price": 100,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 8
+    },
+    {
+      "restaurant": "Billu's Hut",
+      "famous_dishes": "North Indian, Chinese, Fast Food, Pasta, Pizza, Sandwich, Shake, Beverages",
+      "place": "Karol Bagh",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/5/2965/13567a38c842f945c4dff04b0391e09b_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 4.1,
+      "price": 150,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 9
+    },
+    {
+      "restaurant": "The Biryani Life",
+      "famous_dishes": "Biryani, Kebab, Hyderabadi, Lucknowi",
+      "place": "Paharganj",
+      "image": "https://b.zmtcdn.com/data/pictures/4/19183044/2d31f3556e9a90b2806c875dc6ff36b8_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 3.8,
+      "price": 120,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 10
+    },
+    {
+      "restaurant": "Pandit Ji Parantha Hut",
+      "famous_dishes": "North Indian, Street Food, Beverages",
+      "place": "Paharganj",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/6/307406/bc1a8c29f7ac21c07077a301ca4b4c00_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 3.9,
+      "price": 100,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 11
+    },
+    {
+      "restaurant": "Begum Jaan",
+      "famous_dishes": "North Indian, Mughlai, Biryani, Rolls, Beverages, Desserts",
+      "place": "Paharganj",
+      "image": "https://b.zmtcdn.com/data/pictures/3/19959753/e2b0ee98afacd605a635f69d6d07939c_o2_featured_v2.jpg",
+      "city": "delhi",
+      "rating": 4.7,
+      "price": 300,
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "id": 12
+    }
+  ],
 "freelancers": [
     {
       "name": "om",
