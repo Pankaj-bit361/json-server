@@ -692,6 +692,7 @@
           "title": "Men White Trainers",
           "off_price": 1999,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -717,6 +718,7 @@
           "id": 2,
           "title": "Men Pink Regular Fit Hoodie",
           "off_price": 2299,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -744,6 +746,7 @@
           "id": 3,
           "title": "Men Blue Cotton Fine-knit Jumper",
           "off_price": 1499,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -771,6 +774,7 @@
           "id": 4,
           "title": "Men Grey Relaxed Fit Sweatshirt",
           "off_price": 799,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -806,6 +810,7 @@
           "off_price": "Rs. 499",
           "discount": "(60% OFF)",
           "id": 5,
+          "quantity":1,
           "color":"white",
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2275365/2022/11/22/ef55fd5e-8ba8-432e-9105-137fde7311401669105782390-Roadster-Men-White--Pure-Cotton-T-shirt-7301669105781913-3.jpg",
@@ -824,6 +829,7 @@
           "title": "Unisex Black Precision V Basketball Shoes",
           "off_price": "4599",
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -852,6 +858,7 @@
           "title": "Men Light Blue Logo Printed Slim Fit Casual T-shirt",
           "off_price": "3299",
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -878,6 +885,7 @@
           "title": "Men Black Striped Sporty Jacket",
           "off_price": 2299,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -905,6 +913,7 @@
           "title": "Men Green Solid Stole With Tasseled Border",
           "off_price": 454,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -933,6 +942,7 @@
           "title": "Men Olive Green Solid Active Bomber Jacket",
           "off_price": 2399,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -960,6 +970,7 @@
           "id": 11,
           "title": "Men Black Solid Rapid Dry Running Joggers",
           "off_price": 1044,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -987,6 +998,7 @@
           "id": 12,
           "title": "Men Teal Blue Printed T-shirt",
           "off_price": 419,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -1018,6 +1030,7 @@
           "id": 13,
           "title": "Men Grey Solid Hooded Bomber Jacket",
           "off_price": 2199,
+          "quantity":1,
           "gender": "men",
           "sizes": [
             "S",
@@ -1045,6 +1058,7 @@
           "id": 14,
           "title": "Men Blue Relaxed Fit Hoodie",
           "off_price": 1499,
+          "quantity":1,
           "gender": "male",
           "sizes": [
             "S",
@@ -1078,6 +1092,7 @@
           "title": "Men Cotton Pure Cotton T-shirt",
           "size": "XL",
           "off_off_price": 199,
+          "quantity":1,
           "off_price":  499,
           "discount": "(60% OFF)",
           "id": 15,
@@ -1098,6 +1113,7 @@
           "off_price": 899,
           "size": "M",
           "id": 16,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/22446396/2023/3/21/df500369-dfbe-40c2-ac3f-7514e0c9fe3f1679344325494TechnosportMenPinkAntimicrobialAppliqueSlimFitT-shirt1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/22446396/2023/3/21/cd4b1906-ebd9-426c-9dc4-c162809566971679344325536TechnosportMenPinkAntimicrobialAppliqueSlimFitT-shirt3.jpg",
@@ -1116,6 +1132,7 @@
           "off_price": 999,
           "discount": "(50% OFF)",
           "id": 17,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/10/3/3c8437a7-20eb-4bfb-994f-b543d612d6a21570085069044-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/10/3/f98607e9-f669-407a-806e-8d0d405031d51570085069127-3.jpg",
@@ -1134,6 +1151,7 @@
           "off_price": 899,
           "discount": "(60% OFF)",
           "id": 18,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10106341/2019/9/5/e5bd4bb5-b746-44b1-92fd-1b20906c60031567656798859-HRX-by-Hrithik-Roshan-Men-Tshirts-5601567656797772-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10106341/2019/9/5/87a7bce1-4b27-4fcd-afb5-bfd82a6025bb1567656798821-HRX-by-Hrithik-Roshan-Men-Tshirts-5601567656797772-3.jpg",
@@ -1152,6 +1170,7 @@
           "off_price": 599,
           "discount": "(55% OFF)",
           "id": 19,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10424686/2020/3/21/f64c8408-deef-4a16-bf6a-a27ec25bb7fa1584785673695-Roadster-Men-Tshirts-8061584785671968-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10424686/2020/3/21/bd08795e-c8e7-4f7f-af39-d83c55cd94141584785673623-Roadster-Men-Tshirts-8061584785671968-3.jpg",
@@ -1170,6 +1189,7 @@
           "off_price":  1899,
           "discount": "(45% OFF)",
           "id": 20,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14047672/2021/5/17/c1fd89a5-6364-4d0b-bde4-fcc0b7ddd1571621252467672-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14047672/2021/5/17/4829edea-d10c-48bd-b035-a6763cdd790a1621252467629-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-3.jpg",
@@ -1191,6 +1211,7 @@
           "off_price": 1099,
           "discount": "(73% OFF)",
           "id": 21,
+          "quantity":1,
           "color":"white",
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
@@ -1206,6 +1227,7 @@
           "title": "Men Tan Mouse High Cushioning Running Shoes",
           "off_price": 1749,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1218,6 +1240,7 @@
           "color": "red",
           "discount": "32% OFF",
           "off_off_price": 999,
+          
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/03c95244-17fa-4509-a49a-0c3eb25b40171631785441918CLYMBMenTan1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15497558/2021/9/16/9456b860-90b7-4b68-9bbf-2fbeead4b4e71631785441910CLYMBMenTan2.jpg",
@@ -1237,6 +1260,7 @@
           "off_off_price":  532,
           "off_price":  1299,
           "discount": "(59% OFF)",
+          "quantity":1,
           "color":"green",
           "id": 23,
           "images":{
@@ -1258,6 +1282,7 @@
           "off_price": 699,
           "discount": "(60% OFF)",
           "id": 24,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700944/2019/6/8/488007ef-c65e-4a2f-a92b-65b6846894861559989274078-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700944/2019/6/8/35ba3907-4935-41d0-976d-f0638104336f1559989274057-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--2.jpg",
@@ -1277,6 +1302,7 @@
           "size": "L",
           "color":"grey",
           "id": 25,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/21793822/2023/2/1/bea555a2-aa8a-4c1c-8242-02ca243136541675244252201TechnosportMenBayLeafTshirt1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/21793822/2023/2/1/4fab8998-59ef-4997-a545-3527b73d18f21675244252181TechnosportMenBayLeafTshirt3.jpg",
@@ -1295,6 +1321,7 @@
           "off_price":  599,
           "discount": "(60% OFF)",
           "id": 26,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2216201/2017/11/30/11512038271694-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8171512038271594-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2216201/2017/11/30/11512038271654-Roadster-Men-Black-Solid-Round-Neck-T-shirt-8171512038271594-3.jpg",
@@ -1313,6 +1340,7 @@
           "off_price": 999,
           "discount": "(50% OFF)",
           "id": 27,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/10/3/09814e9d-8388-4857-8f41-a03c9d9698701570086314065-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2019/10/3/9da11bfc-527c-44b2-8a2f-1e5d0cd85e121570086314135-3.jpg",
@@ -1331,6 +1359,7 @@
           "off_price": 1099,
           "discount": "(46% OFF)",
           "id": 28,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8923841/2019/6/3/736b9f2c-3a49-41a9-828c-1e0218b62e431559550212164-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/8923841/2019/6/3/7d2bb3b5-b6a9-4cac-ab1f-814071ac32f11559550212123-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-3.jpg",
@@ -1349,6 +1378,7 @@
           "off_price":  1299,
           "discount": "(41% OFF)",
           "id": 29,
+          "quantity":1,
           "images":{
             "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17535032/2022/3/24/aafe16ee-6483-40ef-8fae-80e114279b591648122118227-Puma-Men-Tshirts-4991648122117871-1.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17535032/2022/3/24/06702e97-7dd8-4bf5-95da-bcc1424a78e41648122118209-Puma-Men-Tshirts-4991648122117871-3.jpg",
@@ -1366,6 +1396,7 @@
           "title": "Men Blue Slim Fit Solid Casual Shirt",
           "off_price": 999,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1394,6 +1425,7 @@
           "title": "Men Grey & Blue Self Design Kurta with Churidar & Nehru Jacket",
           "off_price": 2199,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1406,6 +1438,7 @@
           "color": "white",
           "discount": "35% OFF",
           "off_off_price": 1999,
+          
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/c18ee8eb-06f6-4d10-8f4a-680ac10fccf21527055151093-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6518468/2018/5/23/81b26584-a36d-414d-9653-195b978884141527055151039-Sojanya-Since-1958-Grey-Silk-Kurta-Pyjama--Blue-Printed-Nehru-Jacket-SET-4231527055150856-3.jpg",
@@ -1422,6 +1455,7 @@
           "title": "Men White & Navy Blue Pure Cotton Striped Polo Collar T-shirt",
           "off_price": 4999,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1450,6 +1484,7 @@
           "title": "Men Navy Blue Solid Slim Fit Chino Shorts",
           "off_price": 5699,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1462,6 +1497,7 @@
           "color": "black",
           "discount": "25% OFF",
           "off_off_price": 4449,
+          
           "images": {
             "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/76a1fe8c-86c9-4ff1-bd68-2d333cfc03831544132056588-1.jpg",
             "image2": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/7/2bf7f927-99ec-4670-88ae-8e3ef0b9dfb81544132056680-4.jpg",
@@ -1478,6 +1514,7 @@
           "title": "Men Pink Slim Fit White Vertical Stripes Formal Shirt",
           "off_price": 3349,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
@@ -1506,6 +1543,7 @@
           "title": "Men Red & Green Striped Pure Cotton Kurta",
           "off_price": 4899,
           "gender": "men",
+          "quantity":1,
           "sizes": [
             "S",
             "M",
