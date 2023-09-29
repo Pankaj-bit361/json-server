@@ -4152,6 +4152,170 @@
       "type": "HIGH POWERED STOCKS"
     }
   ],
+  "IntradayBoost": [
+    {
+      "symbol": "HINDCOPPER",
+      "id": 1,
+      "ltp": "149",
+      "pre": "141.1",
+      "percentage": "5.6",
+      "diff": "2.65",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "UBL",
+      "id": 2,
+      "ltp": "1587.45",
+      "pre": "1540.25",
+      "percentage": "3.06",
+      "diff": "1.35",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "DLF",
+      "id": 3,
+      "ltp": "508",
+      "pre": "518.75",
+      "percentage": "-2.07",
+      "diff": "1.35",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "NTPC",
+      "id": 4,
+      "ltp": "222.95",
+      "pre": "218.35",
+      "percentage": "2.11",
+      "diff": "1.28",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "MARUTI",
+      "id": 5,
+      "ltp": "9766",
+      "pre": "9820.75",
+      "percentage": "-0.56",
+      "diff": "1.18",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "ASTRAL",
+      "id": 6,
+      "ltp": "2016",
+      "pre": "1969.55",
+      "percentage": "2.37",
+      "diff": "0.97",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "OBEROIRITY",
+      "id": 7,
+      "ltp": "1100.2",
+      "pre": "1119.55",
+      "percentage": "-1.73",
+      "diff": "156.62",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "PETRONET",
+      "id": 8,
+      "ltp": "233.15",
+      "pre": "233.55",
+      "percentage": "-0.17",
+      "diff": "0.88",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "UPL",
+      "id": 9,
+      "ltp": "617.65",
+      "pre": "624.7",
+      "percentage": "-1.13",
+      "diff": "0.72",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "id": 10,
+      "ltp": "149",
+      "pre": "141.1",
+      "percentage": "5.6",
+      "diff": "2.65",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "UBL",
+      "id": 11,
+      "ltp": "1587.45",
+      "pre": "1540.25",
+      "percentage": "3.06",
+      "diff": "1.35",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "DLF",
+      "id": 12,
+      "ltp": "508",
+      "pre": "518.75",
+      "percentage": "-2.07",
+      "diff": "1.35",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "NTPC",
+      "id": 13,
+      "ltp": "222.95",
+      "pre": "218.35",
+      "percentage": "2.11",
+      "diff": "1.28",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "MARUTI",
+      "id": 14,
+      "ltp": "9766",
+      "pre": "9820.75",
+      "percentage": "-0.56",
+      "diff": "1.18",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "ASTRAL",
+      "id": 15,
+      "ltp": "2016",
+      "pre": "1969.55",
+      "percentage": "2.37",
+      "diff": "0.97",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "OBEROIRITY",
+      "id": 16,
+      "ltp": "1100.2",
+      "pre": "1119.55",
+      "percentage": "-1.73",
+      "diff": "156.62",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "PETRONET",
+      "id": 17,
+      "ltp": "233.15",
+      "pre": "233.55",
+      "percentage": "-0.17",
+      "diff": "0.88",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "UPL",
+      "id": 18,
+      "ltp": "617.65",
+      "pre": "624.7",
+      "percentage": "-1.13",
+      "diff": "0.72",
+      "type": "INTRADAY BOOST"
+    }
+  ],
   "LowStockData": [
     {
       "symbol": "TRENT",
