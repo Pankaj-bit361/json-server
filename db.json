@@ -85,14 +85,14 @@
     {
       "username": "Pankaj",
       "password": "pankaj",
-      "avatar": "https://img.freepik.com/premium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
+      "avatar": "https://img.freepik.com/"pre"mium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
       "email": "pnkjvshsht1@gmail.com",
       "id": 1
     },
     {
       "username": "pankaj",
       "password": "pankaj",
-      "avatar": "https://img.freepik.com/premium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
+      "avatar": "https://img.freepik.com/"pre"mium-psd/3d-student_382786-1248.jpg?size=626&ext=jpg&ga=GA1.1.1395151129.1685774887&semt=ais",
       "email": "pnkjvshsht@gmail.com",
       "id": 2
     },
@@ -107,7 +107,7 @@
   "questions": [
     {
       "title": "How to sort an array in JavaScript?",
-      "description": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in JavaScript. Can someone please provide guidance?",
       "language": "Javascript",
       "date": "2023-06-03",
       "upvotes": "10",
@@ -116,7 +116,7 @@
     },
     {
       "title": "How to sort an array in JavaScript?",
-      "description": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in JavaScript. Can someone please provide guidance?",
       "language": "Javascript",
       "date": "2023-06-03",
       "upvotes": "10",
@@ -125,7 +125,7 @@
     },
     {
       "title": "How to sort an array in Java?",
-      "description": "I'm struggling with sorting an array in Java. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in Java. Can someone please provide guidance?",
       "language": "Java",
       "date": "2023-06-03",
       "upvotes": "20",
@@ -134,7 +134,7 @@
     },
     {
       "title": "How to sort an array in python?",
-      "description": "I'm struggling with sorting an array in python. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in python. Can someone please provide guidance?",
       "language": "Python",
       "date": "2023-06-03",
       "upvotes": "30",
@@ -143,7 +143,7 @@
     },
     {
       "title": "How to sort an array in Java?",
-      "description": "I'm struggling with sorting an array in Java. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in Java. Can someone please provide guidance?",
       "language": "Java",
       "date": "2023-06-03",
       "upvotes": "20",
@@ -152,7 +152,7 @@
     },
     {
       "title": "How to sort an array in python?",
-      "description": "I'm struggling with sorting an array in python. Can someone please provide guidance?",
+      "description": "I"m struggling with sorting an array in python. Can someone please provide guidance?",
       "language": "Python",
       "date": "2023-06-03",
       "upvotes": "30",
@@ -379,7 +379,7 @@
         },
         {
           "id": 9,
-          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/6144fd79-60c2-4a61-9c84-3c75ff5bde5e1651582184281-Premium-Handbags.jpg"
+          "url": "https://assets.myntassets.com/f_webp,w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/5/3/6144fd79-60c2-4a61-9c84-3c75ff5bde5e1651582184281-"Pre"mium-Handbags.jpg"
         },
         {
           "id": 10,
@@ -701,7 +701,7 @@
             "XXL"
           ],
           "description": "Trainers in imitation leather with a contrasting colour heel cap. Padded top edge and a tongue and lacing at the front. Linings and insoles in piqu and rubber soles that are patterned underneath.",
-          "category": "Men's Footwear",
+          "category": "Men"s Footwear",
           "brand": "H&M",
           "color": "white",
           "discount": "12% OFF",
@@ -728,7 +728,7 @@
             "XXL"
           ],
           "description": "Long-sleeved hoodie in soft sweatshirt fabric with a kangaroo pocket, double-layered drawstring hood with a wrapover front, and ribbing at the cuffs and hem.",
-          "category": "Men's Clothing",
+          "category": "Men"s Clothing",
           "brand": "H&M",
           "color": "pink",
           "discount": "8% OFF",
@@ -756,7 +756,7 @@
             "XXL"
           ],
           "description": "Jumper in a soft, fine cotton knit with a round neck, long sleeves and ribbing at the cuffs and hem.",
-          "category": "Men's Clothing",
+          "category": "Men"s Clothing",
           "brand": "H&M",
           "color": "blue",
           "discount": "52% OFF",
@@ -784,7 +784,7 @@
             "XXL"
           ],
           "description": "Grey solid sweatshirt has a round neck, long sleeves, closure, straight hem",
-          "category": "Men's Clothing",
+          "category": "Men"s Clothing",
           "brand": "H&M",
           "color": "black",
           "discount": "12% OFF",
@@ -826,7 +826,7 @@
           "id": 6,
           "categories": "shoes",
           "size": "Sizes : 39, 40, 42, 44...",
-          "title": "Unisex Black Precision V Basketball Shoes",
+          "title": "Unisex Black "Pre"cision V Basketball Shoes",
           "off_price": "4599",
           "gender": "men",
           "quantity":1,
@@ -843,10 +843,10 @@
           "discount": "48% OFF",
           "off_off_price": 4199,
           "images": {
-            "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/73fc1074-0a84-4845-b452-9a6a080be4cb1635336510062-Nike-Precision-5-Basketball-Shoes-5381635336509646-1.jpg",
-            "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/2cd4e8e1-4b3c-4b45-895a-ac5144e824b81635336510034-Nike-Precision-5-Basketball-Shoes-5381635336509646-4.jpg",
-            "image3": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-Precision-5-Basketball-Shoes-5381635336509646-5.jpg",
-            "image4": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-Precision-5-Basketball-Shoes-5381635336509646-5.jpg"
+            "image1": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/73fc1074-0a84-4845-b452-9a6a080be4cb1635336510062-Nike-"Pre"cision-5-Basketball-Shoes-5381635336509646-1.jpg",
+            "image2": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/2cd4e8e1-4b3c-4b45-895a-ac5144e824b81635336510034-Nike-"Pre"cision-5-Basketball-Shoes-5381635336509646-4.jpg",
+            "image3": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-"Pre"cision-5-Basketball-Shoes-5381635336509646-5.jpg",
+            "image4": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15384986/2021/10/27/99432808-e710-43b9-ab8e-718c9b1a1a001635336510023-Nike-"Pre"cision-5-Basketball-Shoes-5381635336509646-5.jpg"
           },
                 "rating": 3.2,
           "count": 735
@@ -979,8 +979,8 @@
             "XL",
             "XXL"
           ],
-          "description": "Take the gym look outdoors with the HRX Men's Active Track Pants. Designed with sweat wicking technology, it'll keep you cool and dry all day long",
-          "category": "Men's Clothing",
+          "description": "Take the gym look outdoors with the HRX Men"s Active Track Pants. Designed with sweat wicking technology, it"ll keep you cool and dry all day long",
+          "category": "Men"s Clothing",
           "brand": "HRX",
           "color": "black",
           "discount": "52% OFF",
@@ -1007,8 +1007,8 @@
             "XL",
             "XXL"
           ],
-          "description": "This season set a sporty fashion trend with the HRX Men's Athleisure T-shirt. This striped casual T-shirt can be worn on its own or layered under a jacket or a hoodie.",
-          "category": "Men's Clothing",
+          "description": "This season set a sporty fashion trend with the HRX Men"s Athleisure T-shirt. This striped casual T-shirt can be worn on its own or layered under a jacket or a hoodie.",
+          "category": "Men"s Clothing",
           "brand": "HRX",
           "color": "blue",
           "discount": "38% OFF",
@@ -1039,8 +1039,8 @@
             "XL",
             "XXL"
           ],
-          "description": "The HRX Men's Active Jacket is just what you need to layer over a t-shirt for your morning run. It keeps you warm and protected from the winds so that the weather doesn't interfere with your run.",
-          "category": "Men's Clothing",
+          "description": "The HRX Men"s Active Jacket is just what you need to layer over a t-shirt for your morning run. It keeps you warm and protected from the winds so that the weather doesn"t interfere with your run.",
+          "category": "Men"s Clothing",
           "brand": "HRX",
           "color": "black",
           "discount": "45% OFF",
@@ -1068,7 +1068,7 @@
             "XXL"
           ],
           "description": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined, drawstring hood, long sleeves, kangaroo pocket and ribbing at the cuffs and hem. Soft brushed inside.",
-          "category": "Men's Clothing",
+          "category": "Men"s Clothing",
           "brand": "H&M",
           "color": "blue",
           "discount": "85% OFF",
@@ -1253,8 +1253,8 @@
          {
                 "rating": "4.1",
           
-          "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16407468\/2021\/12\/28\/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
-          "brand": "Difference of Opinion",
+          "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16407468\/2021\/12\/28\/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-"Diff"erence-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
+          "brand": ""Diff"erence of Opinion",
           "title": "Men Solid Oversized Cotton",
           "size": "S",
           "off_off_price":  532,
@@ -1264,10 +1264,10 @@
           "color":"green",
           "id": 23,
           "images":{
-            "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-Difference-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
-            "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/d8b66661-3f3b-40c6-a233-b152b12899661640669480669-Difference-of-Opinion-Men-Tshirts-4021640669480120-3.jpg",
-            "image3": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/f2465f57-dfcf-445a-a7b3-9bd6f7007e351640669480659-Difference-of-Opinion-Men-Tshirts-4021640669480120-4.jpg",
-            "image4": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/d68f0bc6-8408-4841-b12b-9f3d632cfe8d1640669480648-Difference-of-Opinion-Men-Tshirts-4021640669480120-5.jpg"
+            "image1":"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/fce7ca1e-01ec-4c12-a90f-c7b75abda0e01640669480687-"Diff"erence-of-Opinion-Men-Tshirts-4021640669480120-1.jpg",
+            "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/d8b66661-3f3b-40c6-a233-b152b12899661640669480669-"Diff"erence-of-Opinion-Men-Tshirts-4021640669480120-3.jpg",
+            "image3": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/f2465f57-dfcf-445a-a7b3-9bd6f7007e351640669480659-"Diff"erence-of-Opinion-Men-Tshirts-4021640669480120-4.jpg",
+            "image4": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16407468/2021/12/28/d68f0bc6-8408-4841-b12b-9f3d632cfe8d1640669480648-"Diff"erence-of-Opinion-Men-Tshirts-4021640669480120-5.jpg"
           }
          },
          {
@@ -1404,7 +1404,7 @@
             "XL",
             "XXL"
           ],
-          "description": "Blue solid casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem",
+          "description": "Blue solid casual shirt, has a s"pre"ad collar, button placket, 1 pocket, long sleeves, curved hem",
           "brand": "HERE&NOW",
           "color": "green",
           "discount": "55% OFF",
@@ -1522,7 +1522,7 @@
             "XL",
             "XXL"
           ],
-          "description": "Pink white vertical stripes opaque formal  shirt ,has a spread collar, button placket, patch pocket, long sleeve  straight hem.",
+          "description": "Pink white vertical stripes opaque formal  shirt ,has a s"pre"ad collar, button placket, patch pocket, long sleeve  straight hem.",
           "brand": "Celfie Design",
           "color": "pink",
           "discount": "21% OFF",
@@ -1835,7 +1835,7 @@
             "XL",
             "XXL"
           ],
-          "description": "Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable.Stretch fabric and an elastic chest band provide a comfortable, compressive feel while shaping to prevent the sensation of empty space in your cups.The semi-auto lock zipper on the front helps prevent unwanted unzipping yet still makes it easy to get in and out",
+          "description": "Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable.Stretch fabric and an elastic chest band provide a comfortable, com"pre"ssive feel while shaping to "pre"vent the sensation of empty space in your cups.The semi-auto lock zipper on the front helps "pre"vent unwanted unzipping yet still makes it easy to get in and out",
           "brand": "KALINI",
           "color": "black",
           "discount": "85% OFF",
@@ -1882,7 +1882,7 @@
         {
           "id": 12,
           "categories": "beautycare",
-          "title": "New York Colossal Volume Express Waterproof Mascara - Black 10 g",
+          "title": "New York Colossal Volume Ex"pre"ss Waterproof Mascara - Black 10 g",
           "off_price": 319,
           "quantity":1,
           "gender": "women",
@@ -1899,9 +1899,9 @@
           "discount": "30% OFF",
           "off_off_price": 70,
           "images": {
-            "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/3e2cb1c3-b3c1-4024-8564-b57f80d02fcd1575450466090MaybellineNewYorkWaterproofBlackVolumeExpressColossalMasacar2.jpg",
+            "image1": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/3e2cb1c3-b3c1-4024-8564-b57f80d02fcd1575450466090MaybellineNewYorkWaterproofBlackVolumeEx"pre"ssColossalMasacar2.jpg",
             "image2": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/banner2021/6/15/d3930fd7-6ad9-4a23-8b70-b4ff4f27cdc81623745687917-1.jpg",
-            "image3": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/645a8cef-8d8d-4da3-87c8-8e08512c32b71575450466046MaybellineNewYorkWaterproofBlackVolumeExpressColossalMasacar1.jpg",
+            "image3": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10849052/2019/12/4/645a8cef-8d8d-4da3-87c8-8e08512c32b71575450466046MaybellineNewYorkWaterproofBlackVolumeEx"pre"ssColossalMasacar1.jpg",
             "image4": ""
           },
                 "rating": 4.5,
@@ -2173,7 +2173,7 @@
             "XXL"
           ],
           "description": "",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "AKKRITI BY PANTALOONS",
           "color": "blue",
           "discount": "27% OFF",
@@ -2369,7 +2369,7 @@
             "XXL"
           ],
           "description": "",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "HRX",
           "color": "blue",
           "discount": "55% OFF",
@@ -2397,8 +2397,8 @@
             "XL",
             "XXL"
           ],
-          "description": "A classic wind cheater gets a trendy makeover. The HRX Women's Running Jacket protects you from the wind as you run and its ergonomic seams give a wide range of motion. After your run, the wind cheater helps regulate body temperature so that you don't catch a chill.",
-          "category": "Men's Clothing",
+          "description": "A classic wind cheater gets a trendy makeover. The HRX Women"s Running Jacket protects you from the wind as you run and its ergonomic seams give a wide range of motion. After your run, the wind cheater helps regulate body temperature so that you don"t catch a chill.",
+          "category": "Men"s Clothing",
           "brand": "HRX",
           "color": "green",
           "discount": "75% OFF",
@@ -2426,7 +2426,7 @@
             "XXL"
           ],
           "description": "Combat boots with chunky, patterned soles, lacing at the front, a zip in one side and a loop at the back.",
-          "category": "Women's Footwear",
+          "category": "Women"s Footwear",
           "brand": "H&M",
           "color": "black",
           "discount": "18% OFF",
@@ -2453,7 +2453,7 @@
             "XXL"
           ],
           "description": "Jumper in a soft knit with low dropped shoulders, extra-long sleeves and ribbing around the neckline, cuffs and hem.",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "H&M",
           "color": "white",
           "discount": "25% OFF",
@@ -2481,7 +2481,7 @@
             "XXL"
           ],
           "description": "Short cardigan in a soft knit with a V-neck and buttons down the front. Gently dropped shoulders, long sleeves and ribbing around the opening, cuffs and hem.",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "H&M",
           "color": "Off-White",
           "discount": "15% OFF",
@@ -2508,7 +2508,7 @@
             "XXL"
           ],
           "description": "Cropped top in soft sweatshirt fabric with a small embroidered detail at the top. Round neckline, dropped shoulders and long sleeves. Ribbing around the neckline, cuffs and hem.",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "H&M",
           "color": "pink",
           "discount": "12% OFF",
@@ -2536,7 +2536,7 @@
             "XXL"
           ],
           "description": "Oversized zip-through hoodie in sweatshirt fabric made from a cotton blend with a lined, drawstring hood, zip down the front and front pockets. Dropped shoulders, long sleeves and ribbing at the cuffs and hem. Soft brushed inside.",
-          "category": "Women's Clothing",
+          "category": "Women"s Clothing",
           "brand": "H&M",
           "color": "blue",
           "discount": "10% OFF",
@@ -2588,7 +2588,7 @@
      ],
      "off_price":  481,
      "id": 1,
-     "productDiscountPercentage": "(71% OFF)",
+     "productDiscount"Percentage"": "(71% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2612,7 +2612,7 @@
      ],
      "off_price":  899,
      "id": 2,
-     "productDiscountPercentage": "(Rs. 1000 OFF)",
+     "productDiscount"Percentage"": "(Rs. 1000 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2634,7 +2634,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  749,
      "id": 3,
-     "productDiscountPercentage": "(85% OFF)",
+     "productDiscount"Percentage"": "(85% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2656,7 +2656,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  664,
      "id": 4,
-     "productDiscountPercentage": "(30% OFF)",
+     "productDiscount"Percentage"": "(30% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2678,7 +2678,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  699,
      "id": 5,
-     "productDiscountPercentage": "(Rs. 2001 OFF)",
+     "productDiscount"Percentage"": "(Rs. 2001 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2701,7 +2701,7 @@
      ],
      "off_price":  758,
      "id": 6,
-     "productDiscountPercentage": "(67% OFF)",
+     "productDiscount"Percentage"": "(67% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2723,7 +2723,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  399,
      "id": 7,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2733,10 +2733,10 @@
      "rating": "4.4",
      "count": "233",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/15334348\/2021\/9\/1\/d784aa9b-15a9-41e0-86d1-a9cba85591e71630509125052BonOrganikBoysWhitePrintedV-NeckAppliqueT-shirt1.jpg",
      "brand": "YK Disney",
@@ -2745,7 +2745,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  676,
      "id": 8,
-     "productDiscountPercentage": "(67% OFF)",
+     "productDiscount"Percentage"": "(67% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2755,10 +2755,10 @@
      "rating": "4.5",
      "count": "437",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19443990\/2022\/8\/9\/9a45286b-d357-4367-901b-53a0894d5d791660027326491Tshirts1.jpg",
      "brand": "max",
@@ -2767,7 +2767,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  664,
      "id": 9,
-     "productDiscountPercentage": "(30% OFF)",
+     "productDiscount"Percentage"": "(30% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2777,10 +2777,10 @@
      "rating": "4.3",
      "count": "47",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20100190\/2022\/9\/21\/886b9c52-74ef-4efa-9cd0-65de83aec3301663702271961Tshirts1.jpg",
      "brand": "KUCHIPOO",
@@ -2789,7 +2789,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  799,
      "id": 10,
-     "productDiscountPercentage": "(Rs. 2201 OFF)",
+     "productDiscount"Percentage"": "(Rs. 2201 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2799,10 +2799,10 @@
      "rating": "4.6",
      "count": "1.1k",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20089504\/2022\/9\/20\/7d3b44a1-b432-4b89-9453-a6b1c29e3fb11663666823119KinseyBoysMarvelSpider-ManPackofThreeLongSleeveTshirts1.jpg",
      "brand": "BONKIDS",
@@ -2811,7 +2811,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  346,
      "id": 11,
-     "productDiscountPercentage": "(74% OFF)",
+     "productDiscount"Percentage"": "(74% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2821,10 +2821,10 @@
      "rating": "4.5",
      "count": "919",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20207050\/2022\/9\/29\/3293ece2-f736-4dca-9833-e5587bf0e37b16643963267883-packcottonjerseytops3.jpg",
      "brand": "max",
@@ -2833,7 +2833,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  664,
      "id": 12,
-     "productDiscountPercentage": "(30% OFF)",
+     "productDiscount"Percentage"": "(30% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2843,10 +2843,10 @@
      "rating": "4.4",
      "count": "105",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20117956\/2022\/9\/21\/12af34b7-a56c-46e0-b002-3a6f1029beaa1663782537353Tshirts1.jpg",
      "brand": "YK Marvel",
@@ -2856,7 +2856,7 @@
      ],
      "off_price":  759,
      "id": 13,
-     "productDiscountPercentage": "(67% OFF)",
+     "productDiscount"Percentage"": "(67% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2866,10 +2866,10 @@
      "rating": "4.3",
      "count": "247",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19848344\/2022\/9\/21\/6ddd4581-eafe-4612-bff5-69daec9ca98a1663763025374-HELLCAT-Boys-Orange--Navy-Blue-Pack-Of-2-Printed-T-shirt-961-7.jpg",
      "brand": "Kiddeo",
@@ -2878,7 +2878,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  809,
      "id": 14,
-     "productDiscountPercentage": "(73% OFF)",
+     "productDiscount"Percentage"": "(73% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2888,10 +2888,10 @@
      "rating": "4.1",
      "count": "55",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/18945468\/2022\/7\/2\/741645ef-724f-4fb4-b210-1049a2f0b6391656748413427Tshirts1.jpg",
      "brand": "KUCHIPOO",
@@ -2900,7 +2900,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  799,
      "id": 15,
-     "productDiscountPercentage": "(Rs. 1601 OFF)",
+     "productDiscount"Percentage"": "(Rs. 1601 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2910,10 +2910,10 @@
      "rating": "4.3",
      "count": "65",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19526990\/2022\/8\/18\/d69b4fad-b341-4d85-9ec5-7cf193d3ee1d1660804203922KUCHIPOOBoysMulticoloured5PrintedAppliqueT-shirt1.jpg",
      "brand": "H&M",
@@ -2922,7 +2922,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  999,
      "id": 16,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2932,10 +2932,10 @@
      "rating": "4.5",
      "count": "40",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19409628\/2022\/8\/6\/a26bfea0-c205-4acd-9fc5-7330e9136d931659763345647Printedhoodie1.jpg",
      "brand": "KUCHIPOO",
@@ -2944,7 +2944,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  899,
      "id": 17,
-     "productDiscountPercentage": "(Rs. 1801 OFF)",
+     "productDiscount"Percentage"": "(Rs. 1801 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2954,10 +2954,10 @@
      "rating": "4.5",
      "count": "350",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/10565512\/2019\/12\/24\/27a5597d-b5a0-4fd1-8eaa-4bf54e8b7f471577168300774-HRX-by-Hrithik-Roshan-Boys-Black-Printed-Rapid-Dry-Round-Nec-1.jpg",
      "brand": "BONKIDS",
@@ -2966,7 +2966,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  346,
      "id": 18,
-     "productDiscountPercentage": "(74% OFF)",
+     "productDiscount"Percentage"": "(74% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2976,10 +2976,10 @@
      "rating": "4",
      "count": "647",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19189720\/2022\/7\/20\/be024109-9e94-430d-85f1-ab6c1ade25aa1658316493412JuniorsbyLifestyleGreenPrintedCottonTshirts1.jpg",
      "brand": "HELLCAT",
@@ -2989,7 +2989,7 @@
      ],
      "off_price":  459,
      "id": 19,
-     "productDiscountPercentage": "(77% OFF)",
+     "productDiscount"Percentage"": "(77% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -2999,10 +2999,10 @@
      "rating": "4.4",
      "count": "71",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20007766\/2022\/9\/15\/b70f466e-30fa-464c-a729-76cc7d7bac9d1663261573883Ed-a-MammaBoysBlueHenleyNeckAppliqueT-shirt1.jpg",
      "brand": "H&M",
@@ -3011,7 +3011,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  399,
      "id": 20,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3021,10 +3021,10 @@
      "rating": 4.4,
      "count": 30,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20375472\/2022\/10\/12\/7a93b775-1409-45de-ba05-3f8bac26f9ef1665580293899Sweatshirt1.jpg",
      "brand": "KUCHIPOO",
@@ -3033,7 +3033,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  899,
      "id": 21,
-     "productDiscountPercentage": "(Rs. 2101 OFF)",
+     "productDiscount"Percentage"": "(Rs. 2101 OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3055,7 +3055,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  379,
      "id": 22,
-     "productDiscountPercentage": "(62% OFF)",
+     "productDiscount"Percentage"": "(62% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3078,7 +3078,7 @@
      ],
      "off_price":  999,
      "id": 23,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3088,10 +3088,10 @@
      "rating": 3.8,
      "count": 161,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/18195546\/2022\/10\/18\/bad01da5-0934-46e9-b160-de6c127d01a21666068856508-HRX-by-Hrithik-Roshan-Boys-Olive-Green-Solid-Sweatshirt-2216-12.jpg",
      "brand": "HELLCAT",
@@ -3100,7 +3100,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  574,
      "id": 24,
-     "productDiscountPercentage": "(75% OFF)",
+     "productDiscount"Percentage"": "(75% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3110,10 +3110,10 @@
      "rating": 4.4,
      "count": 85,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19888430\/2022\/9\/22\/24102298-f7db-479a-927e-8051138cab381663840104296-HELLCAT-Boys-Burgundy--Green-Pack-Of-2-Printed-Hooded-Sweats-7.jpg",
      "brand": "HRX by Hrithik Roshan",
@@ -3122,7 +3122,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  559,
      "id": 25,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3132,10 +3132,10 @@
      "rating": 3.9,
      "count": 374,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19718652\/2022\/8\/29\/bd3ed3c7-f81d-46a3-a6d7-d300097811f11661779174924Sweatshirts1.jpg",
      "brand": "HELLCAT",
@@ -3145,7 +3145,7 @@
      ],
      "off_price":  639,
      "id": 26,
-     "productDiscountPercentage": "(84% OFF)",
+     "productDiscount"Percentage"": "(84% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3155,10 +3155,10 @@
      "rating": 4.7,
      "count": 62,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/15236504\/2022\/1\/27\/796e6774-f6a3-41a3-8157-0be20ba54a121643292888460-UTH-by-Roadster-Boys-Teal-Green-Solid-Sweatshirt-13316432928-1.jpg",
      "brand": "United Colors of Benetton",
@@ -3167,7 +3167,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  749,
      "id": 27,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3177,10 +3177,10 @@
      "rating": 4.4,
      "count": 132,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20877312\/2022\/11\/23\/ee3c9b4d-d5d9-4068-9c4d-faa02c86e8e21669190560032Sweatshirts1.jpg",
      "brand": "UTH by Roadster",
@@ -3190,7 +3190,7 @@
      ],
      "off_price":  699,
      "id": 28,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3200,10 +3200,10 @@
      "rating": 4.1,
      "count": 72,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/18195566\/2022\/10\/18\/8965b33b-8032-437d-976a-d074ddfb50541666069005604-HRX-by-Hrithik-Roshan-Boys-Turquoise-Blue-Solid-Sweatshirt-9-11.jpg",
      "brand": "Minicult",
@@ -3213,7 +3213,7 @@
      ],
      "off_price":  493,
      "id": 29,
-     "productDiscountPercentage": "(62% OFF)",
+     "productDiscount"Percentage"": "(62% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3223,10 +3223,10 @@
      "rating": 4.2,
      "count": 45,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21240152\/2022\/12\/19\/cdea054d-8fbc-4d2f-abb9-df55ebf6babf1671442208449Hoodedjacket1.jpg",
      "brand": "HRX by Hrithik Roshan",
@@ -3236,7 +3236,7 @@
      ],
      "off_price":  559,
      "id": 30,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3246,10 +3246,10 @@
      "rating": 4.7,
      "count": 14,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19718814\/2022\/8\/29\/bed7d17c-a631-405a-9102-811ca357b7e61661780027883Sweatshirts1.jpg",
      "brand": "H&M",
@@ -3259,7 +3259,7 @@
      ],
      "off_price":  799,
      "id": 31,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3269,10 +3269,10 @@
      "rating": 4.5,
      "count": 13,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20586476\/2022\/11\/2\/c9058dde-200b-4080-a79e-1486aea27e371667385495196Sweatshirts1.jpg",
      "brand": "United Colors of Benetton",
@@ -3281,7 +3281,7 @@
       "4-5y", "6-7y" , "8-10y"
      ], "off_price":  749,
      "id": 32,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3291,10 +3291,10 @@
      "rating": 3.6,
      "count": 5,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19015742\/2022\/11\/2\/fac87de7-163c-4504-9580-be85c8b085f11667389480542USPoloAssnKidsBoysPurpleBrandLogoPrintPureCottonSweatshirt6.jpg",
      "brand": "Lil Tomatoes",
@@ -3304,7 +3304,7 @@
      ],
      "off_price": 45599,
      "id": 33,
-     "productDiscountPercentage": "(70% OFF)",
+     "productDiscount"Percentage"": "(70% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3314,10 +3314,10 @@
      "rating": 4.5,
      "count": 70,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20877330\/2022\/11\/23\/13abd141-8bd2-49ce-be13-4daf0534345f1669190607472Sweatshirts1.jpg",
      "brand": "Cherry Crumble",
@@ -3326,7 +3326,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],  "off_price":  14537,
      "id": 34,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3336,10 +3336,10 @@
      "rating": 4.4,
      "count": 31,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16369830\/2021\/12\/4\/6fb444cc-d32c-44c2-92d7-c2c46ea27c611638614961657KINSEYBoysRedPrintedSweatshirt1.jpg",
      "brand": "HRX by Hrithik Roshan",
@@ -3348,7 +3348,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  44545,
      "id": 35,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3358,10 +3358,10 @@
      "rating": 4,
      "count": 236,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19593562\/2022\/8\/22\/d095664f-ffce-42b0-91e0-6d05fe4926691661129027708Cottonjerseytop1.jpg",
      "brand": "HELLCAT",
@@ -3370,7 +3370,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  54539,
      "id": 36,
-     "productDiscountPercentage": "(73% OFF)",
+     "productDiscount"Percentage"": "(73% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3380,10 +3380,10 @@
      "rating": 4.6,
      "count": 25,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16276112\/2021\/11\/27\/dce46baa-b2fd-413d-a221-a21b71ce2a0c1638009778380BONKIDSBoysNavyBluePrintedHoodedSweatshirt1.jpg",
      "brand": "H&M",
@@ -3393,7 +3393,7 @@
      ],
      "off_price":  15499,
      "id": 37,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3403,10 +3403,10 @@
      "rating": 4,
      "count": 70,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20114602\/2022\/9\/21\/bca52820-1985-4734-835f-2cfe4dc8d7281663772808523Sweatshirts1.jpg",
      "brand": "Allen Solly Junior",
@@ -3416,7 +3416,7 @@
      ],
      "off_price":  74599,
      "id": 38,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3426,10 +3426,10 @@
      "rating": 4,
      "count": 70,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/12851092\/2021\/8\/26\/cc7803b9-7333-447b-8a36-9e911cc3978a1629917704023CherryCrumbleUnisexKidsWhitePrintedHoodedSweatshirt1.jpg",
      "brand": "H&M",
@@ -3438,7 +3438,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  45139,
      "id": 39,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3448,10 +3448,10 @@
      "rating": 3.9,
      "count": 72,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20787414\/2022\/11\/17\/c87dbd9f-982f-4c5a-a10e-84c79af06bcd1668670553532Sweatshirts1.jpg",
      "brand": "HELLCAT",
@@ -3461,7 +3461,7 @@
      ],
      "off_price":  75419,
      "id": 40,
-     "productDiscountPercentage": "(82% OFF)",
+     "productDiscount"Percentage"": "(82% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3471,10 +3471,10 @@
      "rating": 4.5,
      "count": 8,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/18723242\/2022\/11\/25\/d320dcad-95ee-4613-824c-82d5708d022a1669357589784-Allen-Solly-Junior-Boys-Navy-Blue--Red-Brand-Logo-Print-Hood-1.jpg",
      "brand": "Ed-a-Mamma",
@@ -3484,7 +3484,7 @@
      ],
      "off_price":  74549,
      "id": 41,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "boys",
@@ -3507,7 +3507,7 @@
      ],
      "off_price":  799,
      "id": 42,
-     "productDiscountPercentage": "discount",
+     "productDiscount"Percentage"": "discount",
     
      "quantity":1,
      "gender": "girls",
@@ -3529,7 +3529,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  6545459,
      "id": 43,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3539,10 +3539,10 @@
      "rating": 4.3,
      "count": 612,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17299840\/2022\/2\/25\/5b113a40-91fd-46e0-874e-5148e4e35f421645801920924StyloBugBlueFloralLayeredEmpireDress6.jpg",
      "brand": "YK Disney",
@@ -3551,7 +3551,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  54329,
      "id": 44,
-     "productDiscountPercentage": "(70% OFF)",
+     "productDiscount"Percentage"": "(70% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3561,10 +3561,10 @@
      "rating": 4.4,
      "count": 274,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21909334\/2023\/2\/9\/db8ca974-4f91-4db8-ade2-4cfb6f02f8441675955811752CUTECUMBERMauveGeorgetteBodyconMidiDress1.jpg",
      "brand": "CUTECUMBER",
@@ -3573,7 +3573,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  34523,
      "id": 45,
-     "productDiscountPercentage": "(67% OFF)",
+     "productDiscount"Percentage"": "(67% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3583,10 +3583,10 @@
      "rating": 4.6,
      "count": 13,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21023112\/2022\/12\/6\/b77f019a-ac9d-40cd-bed2-b38469a3230e1670322184016-HERENOW-Girls-Dresses-2451670322183674-1.jpg",
      "brand": "DressBerry",
@@ -3596,7 +3596,7 @@
      ],
      "off_price":  75419,
      "id": 46,
-     "productDiscountPercentage": "(5% OFF)",
+     "productDiscount"Percentage"": "(5% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3606,10 +3606,10 @@
      "rating": 4,
      "count": 51,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20283542\/2022\/10\/6\/e00756a2-49b9-4032-b07c-d48668a09ad81664995669425StyleStoneBlackSheathDress1.jpg",
      "brand": "A.T.U.N.",
@@ -3619,7 +3619,7 @@
      ],
      "off_price":  9454599,
      "id": 47,
-     "productDiscountPercentage": "(55% OFF)",
+     "productDiscount"Percentage"": "(55% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3629,10 +3629,10 @@
      "rating": 4.4,
      "count": 10,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19474342\/2022\/8\/12\/ac0ff58e-6148-4ad1-aaf9-c56c81c31ed11660307708542ATUNOffWhiteDress1.jpg",
      "brand": "DressBerry",
@@ -3642,7 +3642,7 @@
      ],
      "off_price":  74519,
      "id": 48,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3652,10 +3652,10 @@
      "rating": 4.5,
      "count": 416,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16491076\/2021\/12\/13\/92092f8f-921e-4d52-8b0c-d9b04bb72ebd1639372865809PinkChickNavyBlueColourblockedLayeredSatinDress1.jpg",
      "brand": "Cherry Crumble",
@@ -3664,7 +3664,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  14579,
      "id": 49,
-     "productDiscountPercentage": "(55% OFF)",
+     "productDiscount"Percentage"": "(55% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3674,10 +3674,10 @@
      "rating": 4.5,
      "count": 124,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16491120\/2021\/12\/13\/20c67bdc-42db-4d9e-8e6d-ba8174fbe55d1639372850981PinkChickNavyBlueColourblockedLayeredSatinDress1.jpg",
      "brand": "Hopscotch",
@@ -3687,7 +3687,7 @@
      ],
      "off_price":  95496,
      "id": 50,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3697,10 +3697,10 @@
      "rating": 5,
      "count": 3,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21473842\/2023\/1\/9\/ab0a6244-5395-4d8b-a0f3-f07adecf880e1673270070965ShimmeringT-shirtdress1.jpg",
      "brand": "CUTECUMBER",
@@ -3710,7 +3710,7 @@
      ],
      "off_price":  14529,
      "id": 51,
-     "productDiscountPercentage": "(5% OFF)",
+     "productDiscount"Percentage"": "(5% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3720,10 +3720,10 @@
      "rating": 4.3,
      "count": 239,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21574868\/2023\/1\/16\/793c14ab-d526-468c-8f73-9b6644cc4ff11673887346557ATUNBlueStripedShirtDress1.jpg",
      "brand": "A.T.U.N.",
@@ -3732,7 +3732,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  45749,
      "id": 52,
-     "productDiscountPercentage": "(Rs. 1235 OFF)",
+     "productDiscount"Percentage"": "(Rs. 1235 OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3742,10 +3742,10 @@
      "rating": 4.5,
      "count": 833,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/12968224\/2021\/9\/29\/5c208af0-4e79-414f-be8f-a95fd6e995e51632885572303YKDisneyGirlsBlueFrozenPrintA-LineDress1.jpg",
      "brand": "Stylo Bug",
@@ -3755,7 +3755,7 @@
      ],
      "off_price":  65497,
      "id": 53,
-     "productDiscountPercentage": "(75% OFF)",
+     "productDiscount"Percentage"": "(75% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3765,10 +3765,10 @@
      "rating": 4.5,
      "count": 321,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17352908\/2022\/3\/2\/866eeee5-744c-4acb-88a3-bccec57ff16a1646230143294EavanPeach-ColouredNetMaxiDress1.jpg",
      "brand": "StyleStone",
@@ -3778,7 +3778,7 @@
      ],
      "off_price":  79549,
      "id": 54,
-     "productDiscountPercentage": "(71% OFF)",
+     "productDiscount"Percentage"": "(71% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3788,10 +3788,10 @@
      "rating": 3.2,
      "count": 37,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/20417426\/2022\/10\/15\/f0f4a3d3-c640-44bb-b245-15f6f489250f1665844676932GirlscottonprintedWesternDress1.jpg",
      "brand": "A.T.U.N.",
@@ -3800,7 +3800,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  85499,
      "id": 55,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3810,10 +3810,10 @@
      "rating": 4.3,
      "count": "2.1k",
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21763502\/2023\/1\/30\/ce939699-5eb9-4e81-a442-6d208f9c5db41675089576408Dresses1.jpg",
      "brand": "Wish Karo",
@@ -3822,7 +3822,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  44591,
      "id": 56,
-     "productDiscountPercentage": "(64% OFF)",
+     "productDiscount"Percentage"": "(64% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3832,10 +3832,10 @@
      "rating": 4.3,
      "count": 378,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/16843198\/2022\/1\/15\/27fbbc8d-2cd4-4fa5-87a2-c249b8e638d51642253115502YKMulticolouredDress1.jpg",
      "brand": "Naughty Ninos",
@@ -3844,7 +3844,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  985,
      "id": 57,
-     "productDiscountPercentage": "(77% OFF)",
+     "productDiscount"Percentage"": "(77% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3854,10 +3854,10 @@
      "rating": 4.4,
      "count": 274,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21574844\/2023\/1\/16\/be0f4aa4-1e59-4351-8d39-bb64e143fe251673888682800ATUNYellowFloralDress1.jpg",
      "brand": "AMIRTHA FASHION",
@@ -3866,7 +3866,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  14549,
      "id": 58,
-     "productDiscountPercentage": "(42% OFF)",
+     "productDiscount"Percentage"": "(42% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3876,10 +3876,10 @@
      "rating": 3.9,
      "count": 35,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21918824\/2023\/2\/10\/62c7f13b-6f6b-45e1-bb5f-e8dffa76c3641676012926954LILDRAMAOrangeFloralEthnicDress1.jpg",
      "brand": "A.T.U.N.",
@@ -3888,7 +3888,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  7454599,
      "id": 59,
-     "productDiscountPercentage": "(25% OFF)",
+     "productDiscount"Percentage"": "(25% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3898,10 +3898,10 @@
      "rating": 4.4,
      "count": 274,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/22063134\/2023\/2\/21\/af36d692-559c-41ea-895a-b8d21e8806101676968120941Tulle-skirtdress1.jpg",
      "brand": "Pink Chick",
@@ -3910,7 +3910,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  14540,
      "id": 60,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3920,10 +3920,10 @@
      "rating": 4.3,
      "count": 50,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21793624\/2023\/2\/1\/217f3bcf-097b-42fb-89d0-fb03495b5f1c1675242256543Dresses1.jpg",
      "brand": "Stylo Bug",
@@ -3933,7 +3933,7 @@
      ],
      "off_price":  89459,
      "id": 61,
-     "productDiscountPercentage": "(56% OFF)",
+     "productDiscount"Percentage"": "(56% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3943,10 +3943,10 @@
      "rating": 4.4,
      "count": 274,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21574848\/2023\/1\/16\/be1ed213-266f-48bc-a6f9-a4e65557f8151673888685137ATUNCream-ColouredDress1.jpg",
      "brand": "AMIRTHA FASHION",
@@ -3956,7 +3956,7 @@
      ],
      "off_price":  14549,
      "id": 62,
-     "productDiscountPercentage": "(50% OFF)",
+     "productDiscount"Percentage"": "(50% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -3966,10 +3966,10 @@
      "rating": 3.9,
      "count": 168,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/2444315\/2022\/5\/12\/bd176141-6ef7-4057-918a-97d1a248a1771652351541757NaughtyNinosGirlsBlackRedPrintedFitandFlareDress1.jpg",
      "brand": "A.T.U.N.",
@@ -3978,7 +3978,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  74459,
      "id": 63,
-     "productDiscountPercentage": "(25% OFF)",
+     "productDiscount"Percentage"": "(25% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4000,7 +4000,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  249,
      "id": 64,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4022,7 +4022,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  412,
      "id": 65,
-     "productDiscountPercentage": "(41% OFF)",
+     "productDiscount"Percentage"": "(41% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4032,10 +4032,10 @@
      "rating": 4.4,
      "count": 179,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17784270\/2023\/2\/23\/17b76205-9f21-46b2-bf7b-35171738738a1677148965332-HRX-By-Hrithik-Roshan-Active-Girls-Neon-Lime-Rapid-Dry-Typog-1.jpg",
      "brand": "KUCHIPOO",
@@ -4044,7 +4044,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  45699,
      "id": 66,
-     "productDiscountPercentage": "(Rs. 1000 OFF)",
+     "productDiscount"Percentage"": "(Rs. 1000 OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4054,10 +4054,10 @@
      "rating": 4.1,
      "count": 100,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17784296\/2023\/2\/23\/b153a9c2-8aa4-4dee-a693-11fa186c04851677148978581-HRX-By-Hrithik-Roshan-Active-Girls-Blue-Beast-Rapid-Dry-Typo-1.jpg",
      "brand": "TALES &amp; STORIES",
@@ -4067,7 +4067,7 @@
      ],
      "off_price":  54599,
      "id": 67,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4077,10 +4077,10 @@
      "rating": 4.2,
      "count": 61,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/22235764\/2023\/3\/6\/3d74f5f6-e34a-495a-a44b-272d029854a81678072956708PrintedT-shirt1.jpg",
      "brand": "NOW",
@@ -4089,7 +4089,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  279,
      "id": 6458,
-     "productDiscountPercentage": "(65% OFF)",
+     "productDiscount"Percentage"": "(65% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4099,10 +4099,10 @@
      "rating": 4.4,
      "count": 74,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17784280\/2022\/7\/20\/658972ce-91ac-41ff-89b4-1334266978f31658317170858-HRX-By-Hrithik-Roshan-U-17-Girls-Optic-White-Rapid-Dry-Typog-1.jpg",
      "brand": "H&M",
@@ -4112,7 +4112,7 @@
      ],
      "off_price":  52544,
      "id": 69,
-     "productDiscountPercentage": "(25% OFF)",
+     "productDiscount"Percentage"": "(25% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4122,10 +4122,10 @@
      "rating": 4.3,
      "count": 52,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17517220\/2022\/3\/14\/efb3863a-6e1a-4e00-8387-cfdcef9704e71647261466872Tshirts1.jpg",
      "brand": "Puma",
@@ -4134,7 +4134,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  46238,
      "id": 70,
-     "productDiscountPercentage": "(33% OFF)",
+     "productDiscount"Percentage"": "(33% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4144,10 +4144,10 @@
      "rating": 4.5,
      "count": 28,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19148468\/2022\/7\/18\/9c359de1-2c83-4c84-8884-a77bab9e071a1658132897156Motif-frontT-shirt1.jpg",
      "brand": "HRX by Hrithik Roshan",
@@ -4157,7 +4157,7 @@
      ],
      "off_price":  23239,
      "id": 71,
-     "productDiscountPercentage": "(70% OFF)",
+     "productDiscount"Percentage"": "(70% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4167,10 +4167,10 @@
      "rating": 4.1,
      "count": 71,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/15814478\/2021\/11\/3\/710c9c79-b5d3-41f1-aba6-0f6fd7afb6e11635928593924-HERENOW-Girls-Tshirts-1041635928591317-1.jpg",
      "brand": "NOW",
@@ -4179,7 +4179,7 @@
       "4-5y", "6-7y" , "8-10y"
      ],   "off_price":  22339,
      "id": 72,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4189,10 +4189,10 @@
      "rating": 4.5,
      "count": 35,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/11393148\/2022\/7\/13\/8d9d25f2-2348-4fc2-a88d-606dd78dce4a1657686479730KUCHIPOOGirlsPackof5PrintedRoundNeckT-shirts1.jpg",
      "brand": "Minicult",
@@ -4202,7 +4202,7 @@
      ],
      "off_price":  45324,
      "id": 73,
-     "productDiscountPercentage": "(65% OFF)",
+     "productDiscount"Percentage"": "(65% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4212,10 +4212,10 @@
      "rating": 4.4,
      "count": 110,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/21066490\/2022\/12\/5\/40572f32-fb03-41cb-9d81-2c07219556ed1670206451458MinicultKidsYellowMickeyMousePrintedV-NeckT-shirt1.jpg",
      "brand": "H&M",
@@ -4225,7 +4225,7 @@
      ],
      "off_price":  79239,
      "id": 74,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4235,10 +4235,10 @@
      "rating": 4.6,
      "count": 40,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/14702586\/2022\/4\/27\/f8f8ee85-c667-454f-999b-7a3a43840f741651053734831-HRX-by-Hrithik-Roshan-U-17-Girls-Blue-Typography-Printed-T-s-1.jpg",
      "brand": "H&M",
@@ -4248,7 +4248,7 @@
      ],
      "off_price":  24239,
      "id": 75,
-     "productDiscountPercentage": "(40% OFF)",
+     "productDiscount"Percentage"": "(40% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4258,10 +4258,10 @@
      "rating": 3.8,
      "count": 6,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/19738624\/2022\/8\/30\/4c0685e6-55d2-4d10-983d-583bd51059ef1661868951780Shaded-CatYouthT-Shirt1.jpg",
      "brand": "DressBerry",
@@ -4271,7 +4271,7 @@
      ],
      "off_price":  32399,
      "id": 76,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4281,10 +4281,10 @@
      "rating": 4.5,
      "count": 47,
       "images" :{
-      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=compress&cs=tinysrgb&w=600" ,
-      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=compress&cs=tinysrgb&w=600" 
+      "image1" : "https://images.pexels.com/photos/6580703/pexels-photo-6580703.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image2" : "https://images.pexels.com/photos/5326951/pexels-photo-5326951.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image3" : "https://images.pexels.com/photos/5043636/pexels-photo-5043636.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" ,
+      "image4" : "https://images.pexels.com/photos/4321798/pexels-photo-4321798.jpeg?auto=com"pre"ss&cs=tinysrgb&w=600" 
       },
      "image": "https:\/\/assets.myntassets.com\/dpr_2,q_60,w_210,c_limit,fl_progressive\/assets\/images\/17361278\/2022\/7\/1\/b10d3e28-49f2-4f75-8b1b-3771c8bb36721656674978645-JUSTICE-Girls-Green-Printed-Pure-Cotton-T-shirt-669165667497-1.jpg",
      "brand": "United Colors of Benetton",
@@ -4294,7 +4294,7 @@
      ],
      "off_price":  27239,
      "id": 77,
-     "productDiscountPercentage": "(60% OFF)",
+     "productDiscount"Percentage"": "(60% OFF)",
     
      "quantity":1,
      "gender": "girls",
@@ -4305,6 +4305,26 @@
     ]
 ,
      "hello":[],
+     "TopStockData" : [
+      { "symbol": "BEL", "ltp": "132.8", "pre": "130.7", "percentage": "1.61", "diff": "0" },
+      { "symbol": "CIPLA", "ltp": "1184.45", "pre": "1175", "percentage": "0.8", "diff": "0" },
+      { "symbol": "BHEL", "ltp": "106.4", "pre": "104.05", "percentage": "2.26", "diff": "0" },
+      { "symbol": "DRREDDY", "ltp": "5697", "pre": "5640.45", "percentage": "1", "diff": "0" },
+      { "symbol": "SUNPHARMA", "ltp": "1147.9", "pre": "1143.4", "percentage": "0.39", "diff": "0" },
+      { "symbol": "IOC", "ltp": "94.65", "pre": "93.75", "percentage": "0.39", "diff": "0" },
+      { "symbol": "ZYDUSLIFE", "ltp": "640", "pre": "632.25", "percentage": "1.23", "diff": "0" },
+      { "symbol": "BIOCON", "ltp": "259.8", "pre": "257.1", "percentage": "1.05", "diff": "0" },
+      { "symbol": "COFORGE", "ltp": "4741.85", "pre": "4703.7", "percentage": "0.81", "diff": "" },
+      { "symbol": "BEL", "ltp": "132.8", "pre": "130.7", "percentage": "1.61", "diff": "0" },
+      { "symbol": "CIPLA", "ltp": "1184.45", "pre": "1175", "percentage": "0.8", "diff": "0" },
+      { "symbol": "BHEL", "ltp": "106.4", "pre": "104.05", "percentage": "2.26", "diff": "0" },
+      { "symbol": "DRREDDY", "ltp": "5697", "pre": "5640.45", "percentage": "1", "diff": "0" },
+      { "symbol": "SUNPHARMA", "ltp": "1147.9", "pre": "1143.4", "percentage": "0.39", "diff": "0" },
+      { "symbol": "IOC", "ltp": "94.65", "pre": "93.75", "percentage": "0.39", "diff": "0" },
+      { "symbol": "ZYDUSLIFE", "ltp": "640", "pre": "632.25", "percentage": "1.23", "diff": "0" },
+      { "symbol": "BIOCON", "ltp": "259.8", "pre": "257.1", "percentage": "1.05", "diff": "0" },
+      { "symbol": "COFORGE", "ltp": "4741.85", "pre": "4703.7", "percentage": "0.81", "diff": "" },
+    ],
 
 "users": [
   {
@@ -4399,7 +4419,7 @@
       "city": "delhi",
       "rating": 4.5,
       "off_price": 100,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 1
     },
     {
@@ -4410,29 +4430,29 @@
       "city": "delhi",
       "rating": 4.2,
       "off_price": 200,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 2
     },
     {
-      "restaurant": "McDonald's",
+      "restaurant": "McDonald"s",
       "famous_dishes": "Burger, Wraps, Fast Food, Desserts, Beverages",
       "place": "Connaught Place",
       "image": "https://b.zmtcdn.com/data/pictures/chains/1/171/ae293114dcf4bd5be57864215c34a329.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
       "city": "delhi",
       "rating": 3.9,
       "off_price": 200,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 3
     },
     {
-      "restaurant": "La Pino'z Pizza",
+      "restaurant": "La Pino"z Pizza",
       "famous_dishes": "Pizza, Pasta, Italian, Fast Food",
       "place": "Pitampura",
       "image": "https://b.zmtcdn.com/data/pictures/chains/7/18619067/eac5d48527700f6ea1bcfbb2094456d0.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
       "city": "delhi",
       "rating": 3.8,
       "off_price": 250,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 4
     },
     {
@@ -4443,7 +4463,7 @@
       "city": "delhi",
       "rating": 3.2,
       "off_price": 250,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 5
     },
     {
@@ -4454,7 +4474,7 @@
       "city": "delhi",
       "rating": 3.4,
       "off_price": 150,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 6
     },
     {
@@ -4465,7 +4485,7 @@
       "city": "delhi",
       "rating": 3.7,
       "off_price": 100,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 7
     },
     {
@@ -4476,18 +4496,18 @@
       "city": "delhi",
       "rating": 4.4,
       "off_price": 100,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 8
     },
     {
-      "restaurant": "Billu's Hut",
+      "restaurant": "Billu"s Hut",
       "famous_dishes": "North Indian, Chinese, Fast Food, Pasta, Pizza, Sandwich, Shake, Beverages",
       "place": "Karol Bagh",
       "image": "https://b.zmtcdn.com/data/pictures/chains/5/2965/13567a38c842f945c4dff04b0391e09b_o2_featured_v2.jpg",
       "city": "delhi",
       "rating": 4.1,
       "off_price": 150,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 9
     },
     {
@@ -4498,7 +4518,7 @@
       "city": "delhi",
       "rating": 3.8,
       "off_price": 120,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 10
     },
     {
@@ -4509,7 +4529,7 @@
       "city": "delhi",
       "rating": 3.9,
       "off_price": 100,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 11
     },
     {
@@ -4520,7 +4540,7 @@
       "city": "delhi",
       "rating": 4.7,
       "off_price": 300,
-      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas' Special in Delhi NCR",
+      "description": "Restaurants in New Delhi, New Delhi Restaurants, Kamla Nagar restaurants, Best Kamla Nagar restaurants, North Delhi restaurants, Quick Bites in Delhi NCR, Quick Bites near me, Quick Bites in North Delhi, Quick Bites in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, in Delhi NCR, near me, in North Delhi, in Kamla Nagar, Taco Bell Menu, Order food online in Kamla Nagar, Order food online in Delhi NCR, Order food online in North Delhi, New Year Parties in Delhi NCR, Christmas" Special in Delhi NCR",
       "id": 12
     }
   ],
@@ -4670,7 +4690,8 @@
       "id": 10
     }
   ]
-     
+  
+   
      
 
     }
