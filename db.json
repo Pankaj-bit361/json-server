@@ -3988,7 +3988,7 @@
       "type": "TOP LEVEL STOCKS"
     }
   ],
-  "HighPoweredStocks": [
+  "HighPoweredStocks":[
     {
       "symbol": "MARUTI",
       "id": 1,
@@ -4035,80 +4035,8 @@
       "type": "HIGH POWERED STOCKS"
     },
     {
-      "symbol": "TATAMOTORS",
-      "id": 6,
-      "ltp": "650.25",
-      "pre": "644.3",
-      "percentage": "0.92",
-      "diff": "166.64",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "POWERGRID",
-      "id": 7,
-      "ltp": "254.65",
-      "pre": "266.05",
-      "percentage": "-4.28",
-      "diff": "156.62",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "TCS",
-      "id": 8,
-      "ltp": "3438.5",
-      "pre": "3421.45",
-      "percentage": "0.48",
-      "diff": "148.01",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "INFY",
-      "id": 9,
-      "ltp": "1365.15",
-      "pre": "1355.7",
-      "percentage": "0.55",
-      "diff": "144.63",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "MARUTI",
-      "id": 10,
-      "ltp": "9766",
-      "pre": "9820.75",
-      "percentage": "-0.56",
-      "diff": "512.8",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "NTPC",
-      "id": 11,
-      "ltp": "222.95",
-      "pre": "218.35",
-      "percentage": "2.11",
-      "diff": "397.19",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "DLF",
-      "id": 12,
-      "ltp": "508",
-      "pre": "518.75",
-      "percentage": "-2.07",
-      "diff": "301.06",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "HINDCOPPER",
-      "id": 13,
-      "ltp": "149",
-      "pre": "141.1",
-      "percentage": "5.6",
-      "diff": "295.76",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
       "symbol": "RELIANCE",
-      "id": 14,
+      "id": 6,
       "ltp": "2538",
       "pre": "2549.25",
       "percentage": "-0.44",
@@ -4117,7 +4045,7 @@
     },
     {
       "symbol": "TATAMOTORS",
-      "id": 15,
+      "id": 7,
       "ltp": "650.25",
       "pre": "644.3",
       "percentage": "0.92",
@@ -4126,7 +4054,7 @@
     },
     {
       "symbol": "POWERGRID",
-      "id": 16,
+      "id": 8,
       "ltp": "254.65",
       "pre": "266.05",
       "percentage": "-4.28",
@@ -4135,7 +4063,7 @@
     },
     {
       "symbol": "TCS",
-      "id": 17,
+      "id": 9,
       "ltp": "3438.5",
       "pre": "3421.45",
       "percentage": "0.48",
@@ -4144,11 +4072,119 @@
     },
     {
       "symbol": "INFY",
-      "id": 18,
+      "id": 10,
       "ltp": "1365.15",
       "pre": "1355.7",
       "percentage": "0.55",
       "diff": "144.63",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "id": 11,
+      "ltp": "239.95",
+      "pre": "236.7",
+      "percentage": "1.37",
+      "diff": "126.68",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "MARUTI",
+      "id": 12,
+      "ltp": "9766",
+      "pre": "9820.75",
+      "percentage": "-0.56",
+      "diff": "512.8",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "NTPC",
+      "id": 13,
+      "ltp": "222.95",
+      "pre": "218.35",
+      "percentage": "2.11",
+      "diff": "397.19",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "DLF",
+      "id": 14,
+      "ltp": "508",
+      "pre": "518.75",
+      "percentage": "-2.07",
+      "diff": "301.06",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "id": 15,
+      "ltp": "149",
+      "pre": "141.1",
+      "percentage": "5.6",
+      "diff": "295.76",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "RELIANCE",
+      "id": 16,
+      "ltp": "2538",
+      "pre": "2549.25",
+      "percentage": "-0.44",
+      "diff": "190.99",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "RELIANCE",
+      "id": 17,
+      "ltp": "2538",
+      "pre": "2549.25",
+      "percentage": "-0.44",
+      "diff": "190.99",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "id": 18,
+      "ltp": "650.25",
+      "pre": "644.3",
+      "percentage": "0.92",
+      "diff": "166.64",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "POWERGRID",
+      "id": 19,
+      "ltp": "254.65",
+      "pre": "266.05",
+      "percentage": "-4.28",
+      "diff": "156.62",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TCS",
+      "id": 20,
+      "ltp": "3438.5",
+      "pre": "3421.45",
+      "percentage": "0.48",
+      "diff": "148.01",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "INFY",
+      "id": 21,
+      "ltp": "1365.15",
+      "pre": "1355.7",
+      "percentage": "0.55",
+      "diff": "144.63",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "id": 22,
+      "ltp": "239.95",
+      "pre": "236.7",
+      "percentage": "1.37",
+      "diff": "126.68",
       "type": "HIGH POWERED STOCKS"
     }
   ],
@@ -4235,8 +4271,26 @@
       "type": "INTRADAY BOOST"
     },
     {
-      "symbol": "HINDCOPPER",
+      "symbol": "Gail",
       "id": 10,
+      "ltp": "121.15",
+      "pre": "119.1",
+      "percentage": "1.72",
+      "diff": "0.67",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "NDMC",
+      "id": 11,
+      "ltp": "117.7",
+      "pre": "117.25",
+      "percentage": "0.38",
+      "diff": "0.51",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "id": 12,
       "ltp": "149",
       "pre": "141.1",
       "percentage": "5.6",
@@ -4245,7 +4299,7 @@
     },
     {
       "symbol": "UBL",
-      "id": 11,
+      "id": 13,
       "ltp": "1587.45",
       "pre": "1540.25",
       "percentage": "3.06",
@@ -4254,7 +4308,7 @@
     },
     {
       "symbol": "DLF",
-      "id": 12,
+      "id": 14,
       "ltp": "508",
       "pre": "518.75",
       "percentage": "-2.07",
@@ -4263,7 +4317,7 @@
     },
     {
       "symbol": "NTPC",
-      "id": 13,
+      "id": 15,
       "ltp": "222.95",
       "pre": "218.35",
       "percentage": "2.11",
@@ -4272,7 +4326,7 @@
     },
     {
       "symbol": "MARUTI",
-      "id": 14,
+      "id": 16,
       "ltp": "9766",
       "pre": "9820.75",
       "percentage": "-0.56",
@@ -4281,7 +4335,7 @@
     },
     {
       "symbol": "ASTRAL",
-      "id": 15,
+      "id": 17,
       "ltp": "2016",
       "pre": "1969.55",
       "percentage": "2.37",
@@ -4290,7 +4344,7 @@
     },
     {
       "symbol": "OBEROIRITY",
-      "id": 16,
+      "id": 18,
       "ltp": "1100.2",
       "pre": "1119.55",
       "percentage": "-1.73",
@@ -4299,7 +4353,7 @@
     },
     {
       "symbol": "PETRONET",
-      "id": 17,
+      "id": 19,
       "ltp": "233.15",
       "pre": "233.55",
       "percentage": "-0.17",
@@ -4308,11 +4362,29 @@
     },
     {
       "symbol": "UPL",
-      "id": 18,
+      "id": 20,
       "ltp": "617.65",
       "pre": "624.7",
       "percentage": "-1.13",
       "diff": "0.72",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "Gail",
+      "id": 21,
+      "ltp": "121.15",
+      "pre": "119.1",
+      "percentage": "1.72",
+      "diff": "0.67",
+      "type": "INTRADAY BOOST"
+    },
+    {
+      "symbol": "NDMC",
+      "id": 22,
+      "ltp": "117.7",
+      "pre": "117.25",
+      "percentage": "0.38",
+      "diff": "0.51",
       "type": "INTRADAY BOOST"
     }
   ],
