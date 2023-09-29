@@ -3988,7 +3988,170 @@
       "type": "TOP LEVEL STOCKS"
     }
   ],
-
+  "LowStockData": [
+    {
+      "symbol": "TRENT",
+      "id": 1,
+      "ltp": "1738",
+      "pre": "1757.1",
+      "percentage": "-1.09",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "SUNTY",
+      "id": 2,
+      "ltp": "534.75",
+      "pre": "541.6",
+      "percentage": "-1.26",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ABFRL",
+      "id": 3,
+      "ltp": "221.85",
+      "pre": "223.15",
+      "percentage": "-0.58",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "CROMPTON",
+      "id": 4,
+      "ltp": "294.75",
+      "pre": "293.9",
+      "percentage": "0.29",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "id": 5,
+      "ltp": "998.75",
+      "pre": "998.3",
+      "percentage": "0.05",
+      "diff": "0.01",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "id": 6,
+      "ltp": "926.05",
+      "pre": "931.45",
+      "percentage": "-0.58",
+      "diff": "0.02",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "LT",
+      "id": 7,
+      "ltp": "2670.1",
+      "pre": "2681.35",
+      "percentage": "-0.42",
+      "diff": "0.02",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "HAVELLS",
+      "id": 8,
+      "ltp": "1329.5",
+      "pre": "1334.05",
+      "percentage": "-.34",
+      "diff": "0.03",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "id": 9,
+      "ltp": "8316",
+      "pre": "8318.15",
+      "percentage": "-0.03",
+      "diff": "0.03",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "TRENT",
+      "id": 10,
+      "ltp": "1738",
+      "pre": "1757.1",
+      "percentage": "-1.09",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "SUNTY",
+      "id": 11,
+      "ltp": "534.75",
+      "pre": "541.6",
+      "percentage": "-1.26",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ABFRL",
+      "id": 12,
+      "ltp": "221.85",
+      "pre": "223.15",
+      "percentage": "-0.58",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "CROMPTON",
+      "id": 13,
+      "ltp": "294.75",
+      "pre": "293.9",
+      "percentage": "0.29",
+      "diff": "0",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "id": 14,
+      "ltp": "998.75",
+      "pre": "998.3",
+      "percentage": "0.05",
+      "diff": "0.01",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "id": 15,
+      "ltp": "926.05",
+      "pre": "931.45",
+      "percentage": "-0.58",
+      "diff": "0.02",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "LT",
+      "id": 16,
+      "ltp": "2670.1",
+      "pre": "2681.35",
+      "percentage": "-0.42",
+      "diff": "0.02",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "HAVELLS",
+      "id": 17,
+      "ltp": "1329.5",
+      "pre": "1334.05",
+      "percentage": "-.34",
+      "diff": "0.03",
+      "type": "LOW LEVEL STOCKS"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "id": 18,
+      "ltp": "8316",
+      "pre": "8318.15",
+      "percentage": "-0.03",
+      "diff": "0.03",
+      "type": "LOW LEVEL STOCKS"
+    }
+  ],
   "users": [
     {
       "username": "Pankaj Vashisht",
