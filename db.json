@@ -3988,6 +3988,170 @@
       "type": "TOP LEVEL STOCKS"
     }
   ],
+  "HighPoweredStocks": [
+    {
+      "symbol": "MARUTI",
+      "id": 1,
+      "ltp": "9766",
+      "pre": "9820.75",
+      "percentage": "-0.56",
+      "diff": "512.8",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "NTPC",
+      "id": 2,
+      "ltp": "222.95",
+      "pre": "218.35",
+      "percentage": "2.11",
+      "diff": "397.19",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "DLF",
+      "id": 3,
+      "ltp": "508",
+      "pre": "518.75",
+      "percentage": "-2.07",
+      "diff": "301.06",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "id": 4,
+      "ltp": "149",
+      "pre": "141.1",
+      "percentage": "5.6",
+      "diff": "295.76",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "RELIANCE",
+      "id": 5,
+      "ltp": "2538",
+      "pre": "2549.25",
+      "percentage": "-0.44",
+      "diff": "190.99",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "id": 6,
+      "ltp": "650.25",
+      "pre": "644.3",
+      "percentage": "0.92",
+      "diff": "166.64",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "POWERGRID",
+      "id": 7,
+      "ltp": "254.65",
+      "pre": "266.05",
+      "percentage": "-4.28",
+      "diff": "156.62",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TCS",
+      "id": 8,
+      "ltp": "3438.5",
+      "pre": "3421.45",
+      "percentage": "0.48",
+      "diff": "148.01",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "INFY",
+      "id": 9,
+      "ltp": "1365.15",
+      "pre": "1355.7",
+      "percentage": "0.55",
+      "diff": "144.63",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "MARUTI",
+      "id": 10,
+      "ltp": "9766",
+      "pre": "9820.75",
+      "percentage": "-0.56",
+      "diff": "512.8",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "NTPC",
+      "id": 11,
+      "ltp": "222.95",
+      "pre": "218.35",
+      "percentage": "2.11",
+      "diff": "397.19",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "DLF",
+      "id": 12,
+      "ltp": "508",
+      "pre": "518.75",
+      "percentage": "-2.07",
+      "diff": "301.06",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "id": 13,
+      "ltp": "149",
+      "pre": "141.1",
+      "percentage": "5.6",
+      "diff": "295.76",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "RELIANCE",
+      "id": 14,
+      "ltp": "2538",
+      "pre": "2549.25",
+      "percentage": "-0.44",
+      "diff": "190.99",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "id": 15,
+      "ltp": "650.25",
+      "pre": "644.3",
+      "percentage": "0.92",
+      "diff": "166.64",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "POWERGRID",
+      "id": 16,
+      "ltp": "254.65",
+      "pre": "266.05",
+      "percentage": "-4.28",
+      "diff": "156.62",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "TCS",
+      "id": 17,
+      "ltp": "3438.5",
+      "pre": "3421.45",
+      "percentage": "0.48",
+      "diff": "148.01",
+      "type": "HIGH POWERED STOCKS"
+    },
+    {
+      "symbol": "INFY",
+      "id": 18,
+      "ltp": "1365.15",
+      "pre": "1355.7",
+      "percentage": "0.55",
+      "diff": "144.63",
+      "type": "HIGH POWERED STOCKS"
+    }
+  ],
   "LowStockData": [
     {
       "symbol": "TRENT",
