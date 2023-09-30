@@ -4035,17 +4035,8 @@
       "type": "HIGH POWERED STOCKS"
     },
     {
-      "symbol": "RELIANCE",
-      "id": 6,
-      "ltp": "2538",
-      "pre": "2549.25",
-      "percentage": "-0.44",
-      "diff": "190.99",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
       "symbol": "TATAMOTORS",
-      "id": 7,
+      "id": 6,
       "ltp": "650.25",
       "pre": "644.3",
       "percentage": "0.92",
@@ -4054,7 +4045,7 @@
     },
     {
       "symbol": "POWERGRID",
-      "id": 8,
+      "id": 7,
       "ltp": "254.65",
       "pre": "266.05",
       "percentage": "-4.28",
@@ -4063,7 +4054,7 @@
     },
     {
       "symbol": "TCS",
-      "id": 9,
+      "id": 8,
       "ltp": "3438.5",
       "pre": "3421.45",
       "percentage": "0.48",
@@ -4072,7 +4063,7 @@
     },
     {
       "symbol": "INFY",
-      "id": 10,
+      "id": 9,
       "ltp": "1365.15",
       "pre": "1355.7",
       "percentage": "0.55",
@@ -4081,7 +4072,7 @@
     },
     {
       "symbol": "TATAPOWER",
-      "id": 11,
+      "id": 10,
       "ltp": "239.95",
       "pre": "236.7",
       "percentage": "1.37",
@@ -4090,7 +4081,7 @@
     },
     {
       "symbol": "MARUTI",
-      "id": 12,
+      "id": 11,
       "ltp": "9766",
       "pre": "9820.75",
       "percentage": "-0.56",
@@ -4099,7 +4090,7 @@
     },
     {
       "symbol": "NTPC",
-      "id": 13,
+      "id": 12,
       "ltp": "222.95",
       "pre": "218.35",
       "percentage": "2.11",
@@ -4108,7 +4099,7 @@
     },
     {
       "symbol": "DLF",
-      "id": 14,
+      "id": 13,
       "ltp": "508",
       "pre": "518.75",
       "percentage": "-2.07",
@@ -4117,7 +4108,7 @@
     },
     {
       "symbol": "HINDCOPPER",
-      "id": 15,
+      "id": 14,
       "ltp": "149",
       "pre": "141.1",
       "percentage": "5.6",
@@ -4126,16 +4117,7 @@
     },
     {
       "symbol": "RELIANCE",
-      "id": 16,
-      "ltp": "2538",
-      "pre": "2549.25",
-      "percentage": "-0.44",
-      "diff": "190.99",
-      "type": "HIGH POWERED STOCKS"
-    },
-    {
-      "symbol": "RELIANCE",
-      "id": 17,
+      "id": 15,
       "ltp": "2538",
       "pre": "2549.25",
       "percentage": "-0.44",
@@ -4144,7 +4126,7 @@
     },
     {
       "symbol": "TATAMOTORS",
-      "id": 18,
+      "id": 16,
       "ltp": "650.25",
       "pre": "644.3",
       "percentage": "0.92",
@@ -4153,7 +4135,7 @@
     },
     {
       "symbol": "POWERGRID",
-      "id": 19,
+      "id": 17,
       "ltp": "254.65",
       "pre": "266.05",
       "percentage": "-4.28",
@@ -4162,7 +4144,7 @@
     },
     {
       "symbol": "TCS",
-      "id": 20,
+      "id": 18,
       "ltp": "3438.5",
       "pre": "3421.45",
       "percentage": "0.48",
@@ -4171,7 +4153,7 @@
     },
     {
       "symbol": "INFY",
-      "id": 21,
+      "id": 19,
       "ltp": "1365.15",
       "pre": "1355.7",
       "percentage": "0.55",
@@ -4180,7 +4162,7 @@
     },
     {
       "symbol": "TATAPOWER",
-      "id": 22,
+      "id": 20,
       "ltp": "239.95",
       "pre": "236.7",
       "percentage": "1.37",
