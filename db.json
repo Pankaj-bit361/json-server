@@ -3988,7 +3988,7 @@
       "type": "TOP LEVEL STOCKS"
     }
   ],
-  "HighPoweredStocks":[
+  "HighPoweredStocks": [
     {
       "symbol": "MARUTI",
       "id": 1,
@@ -4249,7 +4249,7 @@
       "ltp": "1100.2",
       "pre": "1119.55",
       "percentage": "-1.73",
-      "diff": "156.62",
+      "diff": "0.96",
       "type": "INTRADAY BOOST"
     },
     {
@@ -4348,7 +4348,7 @@
       "ltp": "1100.2",
       "pre": "1119.55",
       "percentage": "-1.73",
-      "diff": "156.62",
+      "diff": "0.96",
       "type": "INTRADAY BOOST"
     },
     {
