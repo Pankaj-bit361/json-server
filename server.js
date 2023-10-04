@@ -1,22 +1,21 @@
 // server.js
 
-const path = require('path');
+const path = require("path");
 
-const jsonServer = require('json-server')
-const server = jsonServer.create()
+const jsonServer = require("json-server");
+const server = jsonServer.create();
+const cors = require("cors");
 
-
-const fs = require('fs')
-const db = JSON.parse(fs.readFileSync(path.join(__dirname, 'db.json')))
-const router = jsonServer.router(db)
+const fs = require("fs");
+const db = JSON.parse(fs.readFileSync(path.join(__dirname, "db.json")));
+const router = jsonServer.router(db);
 
 // const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults()
- 
+const middlewares = jsonServer.defaults();
 
-
-server.use(middlewares)
-server.use('', router)
+server.use(cors());
+server.use(middlewares);
+server.use("", router);
 server.listen(process.env.PORT || 5000, () => {
-  console.log('JSON Server is running')
-})
+  console.log("JSON Server is running");
+});
