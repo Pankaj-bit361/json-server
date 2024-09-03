@@ -19,6 +19,6 @@ server.use((req, res, next) => {
 server.use(cors());
 server.use(middlewares);
 server.use("", router);
-server.listen(process.env.PORT || 5000, () => {
+server.listen(8100, () => {
   console.log("JSON Server is running");
 });
