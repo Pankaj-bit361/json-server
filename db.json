@@ -343,6 +343,7 @@
   ],
 
   "blogs" : [ {
+    "id" : 1,
     "category": "Technology",
     "title": "The Future of AI: How Artificial Intelligence is Transforming Everyday Life",
     "description": "Explore how AI technologies are shaping various industries and daily life, from smart homes to healthcare advancements.",
@@ -350,6 +351,7 @@
     "imageUrl": "https://pykara.net/wp-content/uploads/2019/02/0-2.jpg"
 },
 {
+  "id" : 2,
     "category": "Technology",
     "title": "5 Essential Cybersecurity Tips to Keep Your Data Safe in 2024",
     "description": "Discuss best practices for individuals and businesses to secure their data from rising cyber threats and breaches.",
@@ -357,6 +359,7 @@
     "imageUrl": "https://synoptekmark.b-cdn.net/wp-content/uploads/2024/02/cybersecurity-measures.webp"
 },
 {
+  "id" : 3,
     "category": "Travel",
     "title": "10 Hidden Travel Destinations You Need to Visit in 2024",
     "description": "A guide to lesser-known but breathtaking travel spots around the world, offering a unique and uncrowded experience for adventurous travelers.",
@@ -364,6 +367,7 @@
     "imageUrl": "https://tse3.mm.bing.net/th?id=OIP._pcoj8SEVsaz8mU0Qdm9twHaFd&pid=Api&P=0&h=420"
 },
 {
+  "id" : 4,
     "category": "Travel",
     "title": "Traveling Sustainably: How to Explore the World Without Harming the Environment",
     "description": "Share tips and ideas for eco-friendly travel, including transportation, accommodations, and responsible tourism.",
@@ -371,6 +375,7 @@
     "imageUrl": "https://www.tripsavvy.com/thmb/U_dXVtSg7cxhvYFflLDO_Rtd3es=/3865x2576/filters:fill(auto,1)/world-in-hands-478667956-5a55118ec7822d0037964a6e.jpg"
 },
 {
+  "id" : 5,
     "category": "Food",
     "title": "Vegan Cooking 101: Simple and Delicious Plant-Based Recipes for Beginners",
     "description": "A beginner’s guide to preparing healthy and tasty vegan dishes at home, perfect for those new to plant-based eating.",
@@ -378,6 +383,7 @@
     "imageUrl": "https://dailymom.com/portal/wp-content/uploads/2020/11/Webp.net-resizeimage-9.jpg"
 },
 {
+  "id" : 6,
     "category": "Food",
     "title": "Exploring Global Street Food: The Best Dishes You Must Try",
     "description": "Highlight mouth-watering street foods from around the world, from Mexico\"s tacos to Thailand\"s pad Thai, and how to experience them.",
@@ -385,6 +391,7 @@
     "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.XuK9J4NIY7XTvzWfxPfrGwHaEo&pid=Api&P=0&h=420"
 },
 {
+  "id" : 7,
     "category": "Lifestyle",
     "title": "Minimalism for Beginners: How to Declutter Your Life and Find Peace",
     "description": "Offer advice on adopting a minimalist lifestyle, focusing on decluttering, living with intention, and finding joy in simplicity.",
@@ -392,6 +399,7 @@
     "imageUrl": "https://i.ytimg.com/vi/m7ySN7qMoZM/maxresdefault.jpg"
 },
 {
+  "id" : 8,
     "category": "Lifestyle",
     "title": "How to Stay Productive and Balanced in a Remote Work Environment",
     "description": "Discuss strategies for maintaining productivity, work-life balance, and mental well-being while working remotely.",
@@ -399,6 +407,7 @@
     "imageUrl": "https://socialtalky.com/wp-content/uploads/2023/10/Stay-Productive-and-Balanced-in-a-Remote-Work-Environment.png"
 },
 {
+  "id" : 9,
     "category": "Health & Wellness",
     "title": "The Power of Mindfulness: Simple Practices to Reduce Stress and Anxiety",
     "description": "Introduce readers to mindfulness techniques that can help improve mental clarity, reduce stress, and boost overall well-being.",
@@ -406,6 +415,7 @@
     "imageUrl": "https://zenlounge.in/wp-content/uploads/2020/12/mindfulness-2.jpg"
 },
 {
+  "id" : 10,
     "category": "Health & Wellness",
     "title": "The Benefits of Outdoor Exercise: Why You Should Take Your Workouts Outside",
     "description": "Explore the physical and mental health benefits of exercising outdoors, including connecting with nature and boosting mood.",
