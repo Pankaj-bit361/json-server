@@ -342,6 +342,78 @@
     }
   ],
 
+  "blogs" : [ {
+    "category": "Technology",
+    "title": "The Future of AI: How Artificial Intelligence is Transforming Everyday Life",
+    "description": "Explore how AI technologies are shaping various industries and daily life, from smart homes to healthcare advancements.",
+    "publishedDate": "2024-10-01",
+    "imageUrl": "https://pykara.net/wp-content/uploads/2019/02/0-2.jpg"
+},
+{
+    "category": "Technology",
+    "title": "5 Essential Cybersecurity Tips to Keep Your Data Safe in 2024",
+    "description": "Discuss best practices for individuals and businesses to secure their data from rising cyber threats and breaches.",
+    "publishedDate": "2024-10-05",
+    "imageUrl": "https://synoptekmark.b-cdn.net/wp-content/uploads/2024/02/cybersecurity-measures.webp"
+},
+{
+    "category": "Travel",
+    "title": "10 Hidden Travel Destinations You Need to Visit in 2024",
+    "description": "A guide to lesser-known but breathtaking travel spots around the world, offering a unique and uncrowded experience for adventurous travelers.",
+    "publishedDate": "2024-09-25",
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP._pcoj8SEVsaz8mU0Qdm9twHaFd&pid=Api&P=0&h=420"
+},
+{
+    "category": "Travel",
+    "title": "Traveling Sustainably: How to Explore the World Without Harming the Environment",
+    "description": "Share tips and ideas for eco-friendly travel, including transportation, accommodations, and responsible tourism.",
+    "publishedDate": "2024-09-30",
+    "imageUrl": "https://www.tripsavvy.com/thmb/U_dXVtSg7cxhvYFflLDO_Rtd3es=/3865x2576/filters:fill(auto,1)/world-in-hands-478667956-5a55118ec7822d0037964a6e.jpg"
+},
+{
+    "category": "Food",
+    "title": "Vegan Cooking 101: Simple and Delicious Plant-Based Recipes for Beginners",
+    "description": "A beginner’s guide to preparing healthy and tasty vegan dishes at home, perfect for those new to plant-based eating.",
+    "publishedDate": "2024-08-15",
+    "imageUrl": "https://dailymom.com/portal/wp-content/uploads/2020/11/Webp.net-resizeimage-9.jpg"
+},
+{
+    "category": "Food",
+    "title": "Exploring Global Street Food: The Best Dishes You Must Try",
+    "description": "Highlight mouth-watering street foods from around the world, from Mexico\"s tacos to Thailand\"s pad Thai, and how to experience them.",
+    "publishedDate": "2024-08-20",
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.XuK9J4NIY7XTvzWfxPfrGwHaEo&pid=Api&P=0&h=420"
+},
+{
+    "category": "Lifestyle",
+    "title": "Minimalism for Beginners: How to Declutter Your Life and Find Peace",
+    "description": "Offer advice on adopting a minimalist lifestyle, focusing on decluttering, living with intention, and finding joy in simplicity.",
+    "publishedDate": "2024-07-10",
+    "imageUrl": "https://i.ytimg.com/vi/m7ySN7qMoZM/maxresdefault.jpg"
+},
+{
+    "category": "Lifestyle",
+    "title": "How to Stay Productive and Balanced in a Remote Work Environment",
+    "description": "Discuss strategies for maintaining productivity, work-life balance, and mental well-being while working remotely.",
+    "publishedDate": "2024-07-15",
+    "imageUrl": "https://socialtalky.com/wp-content/uploads/2023/10/Stay-Productive-and-Balanced-in-a-Remote-Work-Environment.png"
+},
+{
+    "category": "Health & Wellness",
+    "title": "The Power of Mindfulness: Simple Practices to Reduce Stress and Anxiety",
+    "description": "Introduce readers to mindfulness techniques that can help improve mental clarity, reduce stress, and boost overall well-being.",
+    "publishedDate": "2024-06-05",
+    "imageUrl": "https://zenlounge.in/wp-content/uploads/2020/12/mindfulness-2.jpg"
+},
+{
+    "category": "Health & Wellness",
+    "title": "The Benefits of Outdoor Exercise: Why You Should Take Your Workouts Outside",
+    "description": "Explore the physical and mental health benefits of exercising outdoors, including connecting with nature and boosting mood.",
+    "publishedDate": "2024-06-10",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:1358/1*fLsGaPwpwF42JgZViTHF1A.jpeg"
+}]
+  ,
+  
   "dealsofthday": [
     {
       "id": 1,
